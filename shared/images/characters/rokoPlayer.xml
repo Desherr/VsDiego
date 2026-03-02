@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rokoPlayer.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Diego Dead confirm0000" x="0" y="0" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0001" x="282" y="0" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0002" x="564" y="0" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0003" x="846" y="0" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0004" x="1128" y="0" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0005" x="1410" y="0" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0006" x="1692" y="0" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0007" x="1974" y="0" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0008" x="2256" y="0" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0009" x="2538" y="0" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0010" x="2820" y="0" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0011" x="3102" y="0" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0012" x="3384" y="0" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0013" x="3666" y="0" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0014" x="0" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0015" x="282" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0016" x="564" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0017" x="846" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0018" x="1128" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0019" x="1410" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0020" x="1692" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0021" x="1692" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0022" x="1974" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0023" x="1974" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0024" x="1974" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0025" x="1974" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0026" x="1974" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0027" x="1974" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0028" x="1974" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0029" x="1974" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0030" x="1974" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0031" x="1974" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0032" x="1974" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead confirm0033" x="1974" y="593" width="282" height="593"/>
+	<SubTexture name="Diego Dead loop0000" x="2256" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0001" x="2496" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0002" x="2496" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0003" x="2736" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0004" x="2736" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0005" x="2976" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0006" x="2976" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0007" x="3216" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0008" x="3216" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0009" x="3456" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0010" x="3456" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0011" x="3456" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0012" x="3456" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0013" x="3456" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0014" x="3456" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0015" x="3456" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0016" x="3456" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0017" x="2256" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0018" x="2496" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0019" x="2496" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0020" x="2736" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0021" x="2736" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0022" x="2976" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0023" x="2976" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0024" x="3456" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0025" x="3456" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0026" x="3456" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0027" x="3456" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0028" x="3456" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0029" x="3456" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0030" x="3216" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0031" x="3216" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0032" x="3456" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dead loop0033" x="3456" y="593" width="240" height="531"/>
+	<SubTexture name="Diego Dies0000" x="3696" y="593" width="253" height="531"/>
+	<SubTexture name="Diego Dies0001" x="0" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0002" x="253" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0003" x="506" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0004" x="759" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0005" x="1012" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0006" x="1265" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0007" x="1265" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0008" x="1265" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0009" x="1265" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0010" x="1265" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0011" x="1265" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0012" x="1265" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0013" x="1265" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0014" x="1265" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0015" x="1518" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0016" x="1518" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0017" x="1518" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0018" x="1771" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0019" x="1771" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0020" x="2024" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0021" x="2024" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0022" x="2277" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0023" x="2277" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0024" x="2530" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0025" x="2530" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0026" x="2783" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0027" x="2783" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0028" x="3036" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0029" x="3289" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0030" x="3289" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0031" x="3542" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0032" x="3542" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0033" x="3795" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0034" x="0" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0035" x="3289" y="1186" width="253" height="531"/>
+	<SubTexture name="Diego Dies0036" x="253" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0037" x="253" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0038" x="253" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0039" x="253" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0040" x="506" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0041" x="506" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0042" x="506" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0043" x="506" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0044" x="759" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0045" x="759" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0046" x="759" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0047" x="759" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0048" x="1012" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0049" x="1012" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0050" x="1012" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0051" x="1012" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0052" x="1265" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0053" x="1265" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0054" x="1265" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0055" x="1265" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0056" x="1265" y="1717" width="253" height="531"/>
+	<SubTexture name="Diego Dies0057" x="1265" y="1717" width="253" height="531"/>
+	<SubTexture name="down pos0000" x="1518" y="1717" width="251" height="492"/>
+	<SubTexture name="down pos0001" x="1518" y="1717" width="251" height="492"/>
+	<SubTexture name="down pos0002" x="1769" y="1717" width="251" height="492"/>
+	<SubTexture name="down pos0003" x="1769" y="1717" width="251" height="492"/>
+	<SubTexture name="down pos0004" x="2020" y="1717" width="251" height="492"/>
+	<SubTexture name="down pos0005" x="2020" y="1717" width="251" height="492"/>
+	<SubTexture name="down pos0006" x="2271" y="1717" width="251" height="492"/>
+	<SubTexture name="down pos0007" x="2271" y="1717" width="251" height="492"/>
+	<SubTexture name="down pos0008" x="2271" y="1717" width="251" height="492"/>
+	<SubTexture name="down pos0009" x="2271" y="1717" width="251" height="492"/>
+	<SubTexture name="down pos0010" x="2271" y="1717" width="251" height="492"/>
+	<SubTexture name="down pos0011" x="2271" y="1717" width="251" height="492"/>
+	<SubTexture name="down pos0012" x="2271" y="1717" width="251" height="492"/>
+	<SubTexture name="down pos0013" x="2271" y="1717" width="251" height="492"/>
+	<SubTexture name="down pos0014" x="2271" y="1717" width="251" height="492"/>
+	<SubTexture name="down posMISS0000" x="2522" y="1717" width="242" height="495"/>
+	<SubTexture name="down posMISS0001" x="2764" y="1717" width="242" height="495"/>
+	<SubTexture name="down posMISS0002" x="2764" y="1717" width="242" height="495"/>
+	<SubTexture name="down posMISS0003" x="3006" y="1717" width="242" height="495"/>
+	<SubTexture name="down posMISS0004" x="3006" y="1717" width="242" height="495"/>
+	<SubTexture name="down posMISS0005" x="3006" y="1717" width="242" height="495"/>
+	<SubTexture name="down posMISS0006" x="3006" y="1717" width="242" height="495"/>
+	<SubTexture name="down posMISS0007" x="3006" y="1717" width="242" height="495"/>
+	<SubTexture name="down posMISS0008" x="3006" y="1717" width="242" height="495"/>
+	<SubTexture name="down posMISS0009" x="3006" y="1717" width="242" height="495"/>
+	<SubTexture name="down posMISS0010" x="3006" y="1717" width="242" height="495"/>
+	<SubTexture name="down posMISS0011" x="3006" y="1717" width="242" height="495"/>
+	<SubTexture name="down posMISS0012" x="3006" y="1717" width="242" height="495"/>
+	<SubTexture name="down posMISS0013" x="3006" y="1717" width="242" height="495"/>
+	<SubTexture name="down posMISS0014" x="3006" y="1717" width="242" height="495"/>
+	<SubTexture name="idle dance 0000" x="3248" y="1717" width="221" height="526"/>
+	<SubTexture name="idle dance 0001" x="3248" y="1717" width="221" height="526"/>
+	<SubTexture name="idle dance 0002" x="3469" y="1717" width="221" height="526"/>
+	<SubTexture name="idle dance 0003" x="3469" y="1717" width="221" height="526"/>
+	<SubTexture name="idle dance 0004" x="3690" y="1717" width="221" height="526"/>
+	<SubTexture name="idle dance 0005" x="3690" y="1717" width="221" height="526"/>
+	<SubTexture name="idle dance 0006" x="0" y="2248" width="221" height="526"/>
+	<SubTexture name="idle dance 0007" x="0" y="2248" width="221" height="526"/>
+	<SubTexture name="idle dance 0008" x="0" y="2248" width="221" height="526"/>
+	<SubTexture name="idle dance 0009" x="0" y="2248" width="221" height="526"/>
+	<SubTexture name="idle dance 0010" x="0" y="2248" width="221" height="526"/>
+	<SubTexture name="idle dance 0011" x="0" y="2248" width="221" height="526"/>
+	<SubTexture name="idle dance 0012" x="0" y="2248" width="221" height="526"/>
+	<SubTexture name="idle dance 0013" x="0" y="2248" width="221" height="526"/>
+	<SubTexture name="idle dance 0014" x="0" y="2248" width="221" height="526"/>
+	<SubTexture name="left pos0000" x="221" y="2248" width="301" height="502"/>
+	<SubTexture name="left pos0001" x="221" y="2248" width="301" height="502"/>
+	<SubTexture name="left pos0002" x="522" y="2248" width="301" height="502"/>
+	<SubTexture name="left pos0003" x="522" y="2248" width="301" height="502"/>
+	<SubTexture name="left pos0004" x="823" y="2248" width="301" height="502"/>
+	<SubTexture name="left pos0005" x="823" y="2248" width="301" height="502"/>
+	<SubTexture name="left pos0006" x="1124" y="2248" width="301" height="502"/>
+	<SubTexture name="left pos0007" x="1124" y="2248" width="301" height="502"/>
+	<SubTexture name="left pos0008" x="1124" y="2248" width="301" height="502"/>
+	<SubTexture name="left pos0009" x="1124" y="2248" width="301" height="502"/>
+	<SubTexture name="left pos0010" x="1124" y="2248" width="301" height="502"/>
+	<SubTexture name="left pos0011" x="1124" y="2248" width="301" height="502"/>
+	<SubTexture name="left pos0012" x="1124" y="2248" width="301" height="502"/>
+	<SubTexture name="left pos0013" x="1124" y="2248" width="301" height="502"/>
+	<SubTexture name="left pos0014" x="1124" y="2248" width="301" height="502"/>
+	<SubTexture name="left posMISS0000" x="1425" y="2248" width="321" height="577"/>
+	<SubTexture name="left posMISS0001" x="1746" y="2248" width="321" height="577"/>
+	<SubTexture name="left posMISS0002" x="1746" y="2248" width="321" height="577"/>
+	<SubTexture name="left posMISS0003" x="2067" y="2248" width="321" height="577"/>
+	<SubTexture name="left posMISS0004" x="2067" y="2248" width="321" height="577"/>
+	<SubTexture name="left posMISS0005" x="2067" y="2248" width="321" height="577"/>
+	<SubTexture name="left posMISS0006" x="2067" y="2248" width="321" height="577"/>
+	<SubTexture name="left posMISS0007" x="2067" y="2248" width="321" height="577"/>
+	<SubTexture name="left posMISS0008" x="2067" y="2248" width="321" height="577"/>
+	<SubTexture name="left posMISS0009" x="2067" y="2248" width="321" height="577"/>
+	<SubTexture name="left posMISS0010" x="2067" y="2248" width="321" height="577"/>
+	<SubTexture name="left posMISS0011" x="2067" y="2248" width="321" height="577"/>
+	<SubTexture name="left posMISS0012" x="2067" y="2248" width="321" height="577"/>
+	<SubTexture name="left posMISS0013" x="2067" y="2248" width="321" height="577"/>
+	<SubTexture name="right pos0000" x="2388" y="2248" width="464" height="477"/>
+	<SubTexture name="right pos0001" x="2388" y="2248" width="464" height="477"/>
+	<SubTexture name="right pos0002" x="2852" y="2248" width="464" height="477"/>
+	<SubTexture name="right pos0003" x="2852" y="2248" width="464" height="477"/>
+	<SubTexture name="right pos0004" x="3316" y="2248" width="464" height="477"/>
+	<SubTexture name="right pos0005" x="3316" y="2248" width="464" height="477"/>
+	<SubTexture name="right pos0006" x="0" y="2825" width="464" height="477"/>
+	<SubTexture name="right pos0007" x="0" y="2825" width="464" height="477"/>
+	<SubTexture name="right pos0008" x="0" y="2825" width="464" height="477"/>
+	<SubTexture name="right pos0009" x="0" y="2825" width="464" height="477"/>
+	<SubTexture name="right pos0010" x="0" y="2825" width="464" height="477"/>
+	<SubTexture name="right pos0011" x="0" y="2825" width="464" height="477"/>
+	<SubTexture name="right pos0012" x="0" y="2825" width="464" height="477"/>
+	<SubTexture name="right pos0013" x="0" y="2825" width="464" height="477"/>
+	<SubTexture name="right pos0014" x="0" y="2825" width="464" height="477"/>
+	<SubTexture name="right posMISS0000" x="464" y="2825" width="381" height="573"/>
+	<SubTexture name="right posMISS0001" x="845" y="2825" width="381" height="573"/>
+	<SubTexture name="right posMISS0002" x="845" y="2825" width="381" height="573"/>
+	<SubTexture name="right posMISS0003" x="1226" y="2825" width="381" height="573"/>
+	<SubTexture name="right posMISS0004" x="1226" y="2825" width="381" height="573"/>
+	<SubTexture name="right posMISS0005" x="1226" y="2825" width="381" height="573"/>
+	<SubTexture name="right posMISS0006" x="1226" y="2825" width="381" height="573"/>
+	<SubTexture name="right posMISS0007" x="1226" y="2825" width="381" height="573"/>
+	<SubTexture name="right posMISS0008" x="1226" y="2825" width="381" height="573"/>
+	<SubTexture name="right posMISS0009" x="1226" y="2825" width="381" height="573"/>
+	<SubTexture name="right posMISS0010" x="1226" y="2825" width="381" height="573"/>
+	<SubTexture name="right posMISS0011" x="1226" y="2825" width="381" height="573"/>
+	<SubTexture name="right posMISS0012" x="1226" y="2825" width="381" height="573"/>
+	<SubTexture name="right posMISS0013" x="1226" y="2825" width="381" height="573"/>
+	<SubTexture name="up pos0000" x="1607" y="2825" width="260" height="542"/>
+	<SubTexture name="up pos0001" x="1607" y="2825" width="260" height="542"/>
+	<SubTexture name="up pos0002" x="1867" y="2825" width="260" height="542"/>
+	<SubTexture name="up pos0003" x="1867" y="2825" width="260" height="542"/>
+	<SubTexture name="up pos0004" x="2127" y="2825" width="260" height="542"/>
+	<SubTexture name="up pos0005" x="2127" y="2825" width="260" height="542"/>
+	<SubTexture name="up pos0006" x="2387" y="2825" width="260" height="542"/>
+	<SubTexture name="up pos0007" x="2387" y="2825" width="260" height="542"/>
+	<SubTexture name="up pos0008" x="2387" y="2825" width="260" height="542"/>
+	<SubTexture name="up pos0009" x="2387" y="2825" width="260" height="542"/>
+	<SubTexture name="up pos0010" x="2387" y="2825" width="260" height="542"/>
+	<SubTexture name="up pos0011" x="2387" y="2825" width="260" height="542"/>
+	<SubTexture name="up pos0012" x="2387" y="2825" width="260" height="542"/>
+	<SubTexture name="up pos0013" x="2387" y="2825" width="260" height="542"/>
+	<SubTexture name="up pos0014" x="2387" y="2825" width="260" height="542"/>
+	<SubTexture name="up posMISS0000" x="2647" y="2825" width="259" height="542"/>
+	<SubTexture name="up posMISS0001" x="2906" y="2825" width="259" height="542"/>
+	<SubTexture name="up posMISS0002" x="2906" y="2825" width="259" height="542"/>
+	<SubTexture name="up posMISS0003" x="3165" y="2825" width="259" height="542"/>
+	<SubTexture name="up posMISS0004" x="3165" y="2825" width="259" height="542"/>
+	<SubTexture name="up posMISS0005" x="3165" y="2825" width="259" height="542"/>
+	<SubTexture name="up posMISS0006" x="3165" y="2825" width="259" height="542"/>
+	<SubTexture name="up posMISS0007" x="3165" y="2825" width="259" height="542"/>
+	<SubTexture name="up posMISS0008" x="3165" y="2825" width="259" height="542"/>
+	<SubTexture name="up posMISS0009" x="3165" y="2825" width="259" height="542"/>
+	<SubTexture name="up posMISS0010" x="3165" y="2825" width="259" height="542"/>
+	<SubTexture name="up posMISS0011" x="3165" y="2825" width="259" height="542"/>
+	<SubTexture name="up posMISS0012" x="3165" y="2825" width="259" height="542"/>
+	<SubTexture name="up posMISS0013" x="3165" y="2825" width="259" height="542"/>
+	<SubTexture name="up posMISS0014" x="3165" y="2825" width="259" height="542"/>
+</TextureAtlas>

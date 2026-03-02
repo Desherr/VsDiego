@@ -1,0 +1,92 @@
+{
+	"version": "1.0.0",
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 1.6,
+	"flipX": false,
+	"name": "Diego (Oponent)",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"startingAnimation": "idle",
+	"isPixel": false,
+	"singTime": 8,
+	"assetPath": "characters/roko",
+	"healthIcon": {
+		"offsets": [
+			0,
+			0
+		],
+		"isPixel": false,
+		"scale": 1,
+		"flipX": false,
+		"id": "diego"
+	},
+	"animations": [
+		{
+			"flipY": false,
+			"offsets": [
+				-7,
+				10
+			],
+			"frameRate": 24,
+			"prefix": "idle dance",
+			"flipX": false,
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-28,
+				-35
+			],
+			"frameRate": 24,
+			"prefix": "right pos0",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHT"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				5,
+				-24
+			],
+			"frameRate": 24,
+			"prefix": "down pos0",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWN"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				53,
+				29
+			],
+			"frameRate": 24,
+			"prefix": "up pos0",
+			"flipX": false,
+			"looped": false,
+			"name": "singUP"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				84,
+				-13
+			],
+			"frameRate": 24,
+			"prefix": "left pos0",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFT"
+		}
+	]
+}

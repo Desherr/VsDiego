@@ -1,0 +1,72 @@
+{
+ "version": "2.2.4",
+ "songName": "SPAGHETTI (feat. DiegozZ) (Diego Mix)",
+ "artist": "LE SSERAFIM (feat. DiegozZ) (feat. DiegozZ)",
+ "charter": "fabs + Spazkid + DiegozZ",
+ "offsets": { },
+ "playData": {
+  "difficulties": [
+   "easy",
+   "normal",
+   "hard"
+  ],
+  "characters": {
+   "player": "diego",
+   "girlfriend": "sserafim-gf",
+   "opponent": "sserafim-kazuha",
+   "opponentVocals": [
+    "sserafim-kazuha"
+   ],
+   "playerVocals": [
+    "sserafim-sakura"
+   ]
+  },
+  "stage": "sserafim",
+  "noteStyle": "funkin",
+  "ratings": {
+   "easy": 2,
+   "normal": 3,
+   "hard": 7
+  },
+  "album": "spaghetti"
+ },
+ "generatedBy": "Friday Night Funkin' - v0.8.1",
+ "timeChanges": [
+  {
+   "t": 0,
+   "b": 0,
+   "bpm": 111.5,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 4342,
+   "b": 8.0689,
+   "bpm": 111.5,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 15297.13,
+   "b": 28.4272,
+   "bpm": 111.5,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 86567,
+   "b": 160.8704,
+   "bpm": 111.5,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 95030.9327,
+   "b": 176.5992,
+   "bpm": 111.5,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 133375.0001,
+   "b": 247.8553,
+   "bpm": 111.5,
+   "bt": [4, 4, 4, 4]
+  }
+ ]
+}

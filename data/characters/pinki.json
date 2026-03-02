@@ -1,0 +1,65 @@
+{
+  "version": "1.0.0",
+  "name": "Pinki",
+  "assetPath": "characters/GF_Bryan",
+  "startingAnimation": "danceRight",
+  "singTime": 8.0,
+  "animations": [
+    {
+      "name": "danceLeft",
+      "prefix": "pinky_idle",
+      "frameIndices": [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+      "offsets": [0, -9]
+    },
+    {
+      "name": "danceRight",
+      "prefix": "pinky_idle",
+      "frameIndices": [
+        15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29
+      ],
+      "offsets": [0, -9]
+    },
+    {
+      "name": "sad",
+      "prefix": "PmissCombo",
+      "frameIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "offsets": [0, -17]
+    },
+    {
+      "name": "cheer",
+      "prefix": "PcheerCombo",
+      "offsets": [0, -9]
+    },
+    {
+      "name": "combo50",
+      "prefix": "PcheerCombo",
+      "offsets": [1, -11]
+    },
+    {
+      "name": "combo100",
+      "prefix": "PcheerCombo",
+      "offsets": [1, -11]
+    },
+    {
+      "name": "combo200",
+      "prefix": "PcheerCombo",
+      "offsets": [1, -11]
+    },
+    {
+      "name": "drop70",
+      "prefix": "PmissCombo",
+      "frameIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "offsets": [0, -12]
+    },
+    {
+      "name": "wait",
+      "prefix": "Pwait",
+      "offsets": [1, -11]
+    },
+     {
+      "name": "wow",
+      "prefix": "Psorprice",
+      "offsets": [1, -11]
+    }
+  ]
+}

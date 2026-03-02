@@ -1,0 +1,121 @@
+{
+  "props": [
+    {
+      "danceEvery": 0,
+      "zIndex": 0,
+      "position": [-661, -590],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "TOWERS",
+      "isPixel": false,
+      "assetPath": "new hall/back",
+      "scroll": [1, 1],
+      "animations": []
+    },
+        {
+      "danceEvery": 0,
+      "zIndex": 1,
+      "position": [-779, -299],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "darkBACK",
+      "isPixel": false,
+      "assetPath": "new hall/ventback",
+      "scroll": [1, 1],
+      "animations": []
+    },
+        {
+      "danceEvery": 0,
+      "zIndex": 2,
+      "position": [690, -360],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "pepardo",
+      "isPixel": false,
+      "assetPath": "new hall/pepa",
+      "scroll": [1, 1],
+      "animations": []
+    },
+        {
+      "danceEvery": 0,
+      "zIndex": 3,
+      "position": [207, -39],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "calaco",
+      "isPixel": false,
+      "assetPath": "new hall/cala",
+      "scroll": [1, 1],
+      "animations": []
+    },
+        {
+      "danceEvery": 0,
+      "zIndex": 4,
+      "position": [-385, -120],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "ema",
+      "isPixel": false,
+      "assetPath": "new hall/ema",
+      "scroll": [1, 1],
+      "animations": []
+    },
+        {
+      "danceEvery": 0,
+      "zIndex": 5,
+      "position": [1320, -270],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "bry",
+      "isPixel": false,
+      "assetPath": "new hall/bry",
+      "scroll": [1, 1],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 6,
+      "position": [-775, -602],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "HALLwall",
+      "isPixel": false,
+      "assetPath": "new hall/WALS",
+      "scroll": [1, 1],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 7,
+      "position": [991, 230],
+      "scale": [0.9, 0.9],
+      "animType": "sparrow",
+      "name": "TRASH",
+      "isPixel": false,
+      "assetPath": "new hall/tash-can",
+      "scroll": [1, 1],
+      "animations": []
+    }
+  ],
+  "cameraZoom": 0.652,
+  "version": "1.0.0",
+  "characters": {
+    "bf": {
+      "zIndex": 300,
+      "position": [1111.5, 803],
+      "cameraOffsets": [28, -100]
+    },
+    "dad": {
+      "zIndex": 200,
+      "position": [139, 803],
+      "cameraOffsets": [151, -213]
+    },
+    "gf": {
+      "zIndex": 100,
+      "cameraOffsets": [36, -165],
+      "position": [597.5, 525]
+    }
+  },
+  "name": "newJORKhall",
+  "directory": "new hall"
+}

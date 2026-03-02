@@ -1,0 +1,202 @@
+{
+	"version": "1.0.0",
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"danceEvery": 1,
+	"scale": 1.4,
+	"name": "Diego (Dark)",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"flipX": false,
+	"startingAnimation": "idle",
+	"isPixel": false,
+	"singTime": 8,
+	"flipY": false,
+	"healthIcon": {
+		"offsets": [
+			0,
+			0
+		],
+		"isPixel": false,
+		"scale": 1,
+		"flipX": false,
+		"id": "diego"
+	},
+	"assetPath": "characters/rokoPlayerDark",
+	"generatedBy": "Nova Character Editor v3.0.0",
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"frameIndices": [],
+			"prefix": "idle dance",
+			"flipX": false,
+			"looped": false,
+			"name": "idle",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-27,
+				-25
+			],
+			"frameIndices": [],
+			"prefix": "left pos0",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHT",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				8,
+				-33
+			],
+			"frameIndices": [],
+			"prefix": "down pos0",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWN",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-32,
+				23
+			],
+			"frameIndices": [],
+			"prefix": "up pos0",
+			"flipX": false,
+			"looped": false,
+			"name": "singUP",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				252,
+				-48
+			],
+			"frameIndices": [],
+			"prefix": "right pos0",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFT",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				8,
+				-33
+			],
+			"frameIndices": [],
+			"prefix": "left posMISS0",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHmiss",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				8,
+				-33
+			],
+			"frameIndices": [],
+			"prefix": "down posMISS0",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWNmiss",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-32,
+				23
+			],
+			"frameIndices": [],
+			"prefix": "up posMISS0",
+			"flipX": false,
+			"looped": false,
+			"name": "singUPmiss",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				252,
+				-48
+			],
+			"frameIndices": [],
+			"prefix": "right posMISS0",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFTmiss",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-1,
+				4
+			],
+			"frameIndices": [],
+			"prefix": "Diego Dies",
+			"flipX": false,
+			"looped": false,
+			"name": "firstDeath",
+			"flipY": false,
+			"assetPath": "characters/rokoPlayer",
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-3,
+				4
+			],
+			"frameIndices": [],
+			"prefix": "Diego Dead loop",
+			"flipX": false,
+			"looped": true,
+			"name": "deathLoop",
+			"flipY": false,
+			"assetPath": "characters/rokoPlayer",
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-3,
+				66
+			],
+			"frameIndices": [],
+			"prefix": "Diego Dead confirm",
+			"flipX": false,
+			"looped": false,
+			"name": "deathConfirm",
+			"flipY": false,
+			"assetPath": "characters/rokoPlayer",
+			"frameRate": 24
+		}
+	]
+}

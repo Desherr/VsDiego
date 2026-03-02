@@ -1,0 +1,85 @@
+{
+  "props": [
+    {
+      "danceEvery": 0,
+      "zIndex": 1,
+      "position": [-905, -396],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "Roof",
+      "isPixel": false,
+      "assetPath": "QT-mall/mallROOF",
+      "scroll": [1, 1],
+      "animations": []
+    },
+        {
+      "danceEvery": 0,
+      "zIndex": 1,
+      "position": [-906, -421],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "Ground",
+      "isPixel": false,
+      "assetPath": "QT-mall/cleanGROUND",
+      "scroll": [1, 1],
+      "animations": []
+    },
+        {
+      "danceEvery": 0,
+      "zIndex": 2,
+      "position": [-904, -394],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "SmallTvS",
+      "isPixel": false,
+      "assetPath": "QT-mall/smolTV",
+      "scroll": [1, 1],
+      "animations": []
+    },
+        {
+      "danceEvery": 0,
+      "zIndex": 3,
+      "position": [-905, -396],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "SideTvs",
+      "isPixel": false,
+      "assetPath": "QT-mall/TvSIDE",
+      "scroll": [1, 1],
+      "animations": []
+    },
+        {
+      "danceEvery": 0,
+      "zIndex": 4,
+      "position": [-905, -396],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "SALE",
+      "isPixel": false,
+      "assetPath": "QT-mall/SALE",
+      "scroll": [1, 1],
+      "animations": []
+    }
+  ],
+  "cameraZoom": 0.652,
+  "version": "1.0.0",
+  "characters": {
+    "bf": {
+      "zIndex": 300,
+      "position": [1122, 827],
+      "cameraOffsets": [-100, -100]
+    },
+    "dad": {
+      "zIndex": 200,
+      "position": [282, 798],
+      "cameraOffsets": [150, -100]
+    },
+    "gf": {
+      "zIndex": 100,
+      "cameraOffsets": [-8, -100],
+      "position": [719.5, 652]
+    }
+  },
+  "name": "QTMall [Diego]",
+  "directory": "QT-mall"
+}

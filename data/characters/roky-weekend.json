@@ -1,0 +1,62 @@
+{
+  "version": "1.0.0",
+  "name": "Roky",
+  "assetPath": "characters/ROKY_assets_WEEKEND1",
+  "startingAnimation": "danceRight",
+  "singTime": 8.0,
+  "animations": [
+    {
+      "name": "danceLeft",
+      "prefix": "ROKY Dancing Beat",
+      "frameIndices": [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+      "offsets": [0, -9]
+    },
+    {
+      "name": "danceRight",
+      "prefix": "ROKY Dancing Beat",
+      "frameIndices": [
+        15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29
+      ],
+      "offsets": [0, -9]
+    },
+    {
+      "name": "sad",
+      "prefix": "roky sad",
+      "frameIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "offsets": [0, -17]
+    },
+    {
+      "name": "cheer",
+      "prefix": "ROKY Cheer",
+      "offsets": [0, -9]
+    },
+    {
+      "name": "combo50",
+      "prefix": "ROKY Cheer",
+      "offsets": [1, -11]
+    },
+    {
+      "name": "drop70",
+      "prefix": "roky sad",
+      "frameIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "offsets": [0, -12]
+    },
+    {
+      "name": "hairBlow",
+      "prefix": "ROKY Dancing Beat blowing ears",
+      "frameIndices": [0, 1, 2, 3],
+      "offsets": [0, -12]
+    },
+    {
+      "name": "hairFall",
+      "prefix": "Roky Dancing Beat Landing ears",
+      "frameIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "offsets": [0, -11]
+    },
+    {
+      "name": "scared",
+      "prefix": "ROKY FEAR",
+      "offsets": [-3, -17]
+    }
+  ]
+}

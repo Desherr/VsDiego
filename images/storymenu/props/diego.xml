@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="diego.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle dance 0000" x="0" y="0" width="221" height="526"/>
+	<SubTexture name="idle dance 0001" x="0" y="0" width="221" height="526"/>
+	<SubTexture name="idle dance 0002" x="221" y="0" width="221" height="526"/>
+	<SubTexture name="idle dance 0003" x="221" y="0" width="221" height="526"/>
+	<SubTexture name="idle dance 0004" x="442" y="0" width="221" height="526"/>
+	<SubTexture name="idle dance 0005" x="442" y="0" width="221" height="526"/>
+	<SubTexture name="idle dance 0006" x="663" y="0" width="221" height="526"/>
+	<SubTexture name="idle dance 0007" x="663" y="0" width="221" height="526"/>
+	<SubTexture name="idle dance 0008" x="663" y="0" width="221" height="526"/>
+	<SubTexture name="idle dance 0009" x="663" y="0" width="221" height="526"/>
+	<SubTexture name="idle dance 0010" x="663" y="0" width="221" height="526"/>
+	<SubTexture name="idle dance 0011" x="663" y="0" width="221" height="526"/>
+	<SubTexture name="idle dance 0012" x="663" y="0" width="221" height="526"/>
+	<SubTexture name="idle dance 0013" x="663" y="0" width="221" height="526"/>
+	<SubTexture name="idle dance 0014" x="663" y="0" width="221" height="526"/>
+</TextureAtlas>

@@ -1,0 +1,237 @@
+{
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"applyStageMatrix": false,
+	"startingAnimation": "idle",
+	"assetPath": "characters/PLACE",
+	"healthIcon": {
+		"offsets": [
+			0,
+			0
+		],
+		"isPixel": false,
+		"scale": 1,
+		"flipX": false,
+		"id": "diego"
+	},	
+	"generatedBy": "Nova Character Editor v3.0.0",
+	"version": "1.0.0",
+	"danceEvery": 1,
+	"scale": 1.2,
+	"name": "DiegoPLACEHOLDERopp",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"flipX": true,
+	"isPixel": false,
+	"singTime": 8,
+	"flipY": false,
+	"atlasSettings": {
+		"swfMode": true,
+		"applyStageMatrix": false,
+		"useRenderTexture": false,
+		"filterQuality": 1,
+		"cacheOnLoad": false
+	},
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"frameIndices": [],
+			"prefix": "idle0",
+			"flipX": false,
+			"looped": false,
+			"name": "idle",
+			"animType": "framelabel",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-37,
+				-15
+			],
+			"frameIndices": [],
+			"prefix": "singLEFT0",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHT",
+			"animType": "framelabel",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				18,
+				-33
+			],
+			"frameIndices": [],
+			"prefix": "singDOWN0",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWN",
+			"animType": "framelabel",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-32,
+				33
+			],
+			"frameIndices": [],
+			"prefix": "singUP0",
+			"flipX": false,
+			"looped": false,
+			"name": "singUP",
+			"animType": "framelabel",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				147,
+				7
+			],
+			"frameIndices": [],
+			"prefix": "singRIGHT0",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFT",
+			"animType": "framelabel",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-27,
+				-15
+			],
+			"frameIndices": [],
+			"prefix": "singLEFTmiss0",
+			"flipX": false,
+			"looped": false,
+			"name": "singRIGHmiss",
+			"animType": "framelabel",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				8,
+				-33
+			],
+			"frameIndices": [],
+			"prefix": "singDOWNmiss0",
+			"flipX": false,
+			"looped": false,
+			"name": "singDOWNmiss",
+			"animType": "framelabel",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-32,
+				23
+			],
+			"frameIndices": [],
+			"prefix": "singUPmiss0",
+			"flipX": false,
+			"looped": false,
+			"name": "singUPmiss",
+			"animType": "framelabel",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				252,
+				-48
+			],
+			"frameIndices": [],
+			"prefix": "singRIGHTmiss0",
+			"flipX": false,
+			"looped": false,
+			"name": "singLEFTmiss",
+			"animType": "framelabel",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				73,
+				5
+			],
+			"frameIndices": [],
+			"prefix": "Yeah0",
+			"flipX": false,
+			"looped": false,
+			"name": "Yeah",
+			"animType": "framelabel",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-1,
+				4
+			],
+			"frameIndices": [],
+			"prefix": "Diego Dies",
+			"flipX": false,
+			"looped": false,
+			"name": "firstDeath",
+			"animType": "framelabel",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-3,
+				4
+			],
+			"frameIndices": [],
+			"prefix": "Diego Dead loop",
+			"flipX": false,
+			"looped": true,
+			"name": "deathLoop",
+			"animType": "framelabel",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		},
+		{
+			"offsets": [
+				-3,
+				66
+			],
+			"frameIndices": [],
+			"prefix": "Diego Dead confirm",
+			"flipX": false,
+			"looped": false,
+			"name": "deathConfirm",
+			"animType": "framelabel",
+			"flipY": false,
+			"assetPath": null,
+			"frameRate": 24
+		}
+	]
+}

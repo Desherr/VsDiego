@@ -1,0 +1,52 @@
+import funkin.play.character.SparrowCharacter;
+import funkin.play.PlayState;
+import funkin.play.PauseSubState;
+import funkin.play.character.CharacterType;
+import funkin.play.GameOverSubState;
+import flixel.FlxSprite;
+import flixel.tweens.FlxTween;
+import funkin.audio.FunkinSound;
+
+class DiegoCharacter extends SparrowCharacter
+{
+	function new()
+	{
+		super('diego');
+	}
+
+	function onCreate(event:ScriptEvent)
+	{
+		super.onCreate(event);
+		
+		GameOverSubState.musicSuffix = '-diego';
+		GameOverSubState.blueBallSuffix = '-diego';
+
+		PauseSubState.musicSuffix = '-diego';
+	}
+
+	override function onSongRetry(event:ScriptEvent):Void {
+		super.onSongRetry(event);
+
+		// Don't let these pile up.
+
+		// Reset to standard death animation.
+		GameOverSubState.musicSuffix = '-diego';
+		GameOverSubState.blueBallSuffix = '-diego';
+
+		PauseSubState.musicSuffix = '-diego';
+
+		this.visible = true;
+	}
+
+	function addToStage(sprite:FlxSprite) {
+		if (this.debug) {
+			// We are in the chart editor or something.
+			// TODO: Make this work properly.
+		} else if (PlayState.instance != null && PlayState.instance.currentStage != null) {
+			PlayState.instance.currentStage.add(sprite);
+		} else {
+			trace('Could not add Pico sprite to stage.');
+		}
+	}
+
+}

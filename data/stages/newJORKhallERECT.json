@@ -1,0 +1,62 @@
+{
+  "props": [
+    {
+      "danceEvery": 0,
+      "zIndex": 0,
+      "position": [-1040, -1141],
+      "scale": [1.30, 1.60],
+      "animType": "sparrow",
+      "name": "skyBOX",
+      "isPixel": false,
+      "assetPath": "new hallERECT/sky",
+      "scroll": [0.9, 0.9],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 1,
+      "position": [-1073, -1255],
+      "scale": [1.40, 1.40],
+      "animType": "sparrow",
+      "name": "cityBG",
+      "isPixel": false,
+      "assetPath": "new hallERECT/cityNIGTH",
+      "scroll": [0.9, 0.9],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 2,
+      "position": [-919, -1401],
+      "scale": [1.30, 2.05],
+      "animType": "sparrow",
+      "name": "lightBULB",
+      "isPixel": false,
+      "assetPath": "new hallERECT/LIGHTpost",
+      "scroll": [1.3, 1.3],
+      "alpha": 0.85,
+      "animations": []
+    }
+  ],
+  "cameraZoom": 0.73,
+  "version": "1.0.0",
+  "characters": {
+    "bf": {
+      "zIndex": 300,
+      "position": [999, 700],
+      "cameraOffsets": [5, -95]
+    },
+    "dad": {
+      "zIndex": 200,
+      "position": [-247, 700],
+      "cameraOffsets": [48, -129]
+    },
+    "gf": {
+      "zIndex": 100,
+      "cameraOffsets": [41, -170],
+      "position": [404.5, 553]
+    }
+  },
+  "name": "newJORKhall [Erect]",
+  "directory": "new hallERECT"
+}

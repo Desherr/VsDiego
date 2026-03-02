@@ -1,0 +1,237 @@
+{
+	"renderType": "sparrow",
+	"offsets": [
+		0,
+		0
+	],
+	"applyStageMatrix": false,
+	"startingAnimation": "idle",
+	"assetPath": "characters/PLACE",
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"id": "diego",
+		"flipX": false
+	},
+	"generatedBy": "Nova Character Editor v3.0.0",
+	"version": "1.0.0",
+	"danceEvery": 1,
+	"scale": 1,
+	"name": "DiegoPLACEHOLDER",
+	"cameraOffsets": [
+		0,
+		0
+	],
+	"flipX": true,
+	"isPixel": false,
+	"singTime": 8,
+	"flipY": false,
+	"atlasSettings": {
+		"applyStageMatrix": false,
+		"swfMode": true,
+		"useRenderTexture": false,
+		"cacheOnLoad": false,
+		"filterQuality": 1
+	},
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"frameIndices": [],
+			"prefix": "idle0",
+			"animType": "framelabel",
+			"name": "idle",
+			"looped": false,
+			"flipX": false,
+			"flipY": false,
+			"frameRate": 24,
+			"assetPath": null
+		},
+		{
+			"offsets": [
+				-107,
+				5
+			],
+			"frameIndices": [],
+			"prefix": "singRIGHT0",
+			"animType": "framelabel",
+			"name": "singRIGHT",
+			"looped": false,
+			"flipX": false,
+			"flipY": false,
+			"frameRate": 24,
+			"assetPath": null
+		},
+		{
+			"offsets": [
+				-42,
+				-33
+			],
+			"frameIndices": [],
+			"prefix": "singDONW0",
+			"animType": "framelabel",
+			"name": "singDOWN",
+			"looped": false,
+			"flipX": false,
+			"flipY": false,
+			"frameRate": 24,
+			"assetPath": null
+		},
+		{
+			"offsets": [
+				-42,
+				33
+			],
+			"frameIndices": [],
+			"prefix": "singUP0",
+			"animType": "framelabel",
+			"name": "singUP",
+			"looped": false,
+			"flipX": false,
+			"flipY": false,
+			"frameRate": 24,
+			"assetPath": null
+		},
+		{
+			"offsets": [
+				127,
+				-23
+			],
+			"frameIndices": [],
+			"prefix": "singLEFT0",
+			"animType": "framelabel",
+			"name": "singLEFT",
+			"looped": false,
+			"flipX": false,
+			"flipY": false,
+			"frameRate": 24,
+			"assetPath": null
+		},
+		{
+			"offsets": [
+				-27,
+				-15
+			],
+			"frameIndices": [],
+			"prefix": "singRIGHmiss",
+			"animType": "framelabel",
+			"name": "singRIGHmiss",
+			"looped": false,
+			"flipX": false,
+			"flipY": false,
+			"frameRate": 24,
+			"assetPath": null
+		},
+		{
+			"offsets": [
+				-42,
+				-33
+			],
+			"frameIndices": [],
+			"prefix": "singDOWNmiss0",
+			"animType": "framelabel",
+			"name": "singDOWNmiss",
+			"looped": false,
+			"flipX": false,
+			"flipY": false,
+			"frameRate": 24,
+			"assetPath": null
+		},
+		{
+			"offsets": [
+				-37,
+				33
+			],
+			"frameIndices": [],
+			"prefix": "singUPmiss0",
+			"animType": "framelabel",
+			"name": "singUPmiss",
+			"looped": false,
+			"flipX": false,
+			"flipY": false,
+			"frameRate": 24,
+			"assetPath": null
+		},
+		{
+			"offsets": [
+				-118,
+				2
+			],
+			"frameIndices": [],
+			"prefix": "singRIGHTmiss",
+			"animType": "framelabel",
+			"name": "singLEFTmiss",
+			"looped": false,
+			"flipX": false,
+			"flipY": false,
+			"frameRate": 24,
+			"assetPath": null
+		},
+		{
+			"offsets": [
+				-72,
+				5
+			],
+			"frameIndices": [],
+			"prefix": "Yeah0",
+			"animType": "framelabel",
+			"name": "Yeah",
+			"looped": false,
+			"flipX": false,
+			"flipY": false,
+			"frameRate": 24,
+			"assetPath": null
+		},
+		{
+			"offsets": [
+				-1,
+				4
+			],
+			"frameIndices": [],
+			"prefix": "Diego Dies",
+			"animType": "framelabel",
+			"name": "firstDeath",
+			"looped": false,
+			"flipX": false,
+			"flipY": false,
+			"frameRate": 24,
+			"assetPath": null
+		},
+		{
+			"offsets": [
+				-3,
+				4
+			],
+			"frameIndices": [],
+			"prefix": "Diego Dead loop",
+			"animType": "framelabel",
+			"name": "deathLoop",
+			"looped": true,
+			"flipX": false,
+			"flipY": false,
+			"frameRate": 24,
+			"assetPath": null
+		},
+		{
+			"offsets": [
+				-3,
+				66
+			],
+			"frameIndices": [],
+			"prefix": "Diego Dead confirm",
+			"animType": "framelabel",
+			"name": "deathConfirm",
+			"looped": false,
+			"flipX": false,
+			"flipY": false,
+			"frameRate": 24,
+			"assetPath": null
+		}
+	]
+}
