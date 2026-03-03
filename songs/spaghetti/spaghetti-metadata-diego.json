@@ -1,8 +1,8 @@
 {
  "version": "2.2.4",
- "songName": "SPAGHETTI (feat. DiegozZ) (Diego Mix)",
- "artist": "LE SSERAFIM (feat. DiegozZ) (feat. DiegozZ)",
- "charter": "fabs + Spazkid + DiegozZ",
+ "songName": "SPAGHETTI (feat. DiegozZ of Vc Team) (Diego Mix) (Cover)",
+ "artist": "LE SSERAFIM (feat. DiegozZ)",
+ "charter": "fabs + Spazkid",
  "offsets": { },
  "playData": {
   "difficulties": [
@@ -11,7 +11,7 @@
    "hard"
   ],
   "characters": {
-   "player": "diego",
+   "player": "diego-PLACE",
    "girlfriend": "sserafim-gf",
    "opponent": "sserafim-kazuha",
    "opponentVocals": [
@@ -30,7 +30,7 @@
   },
   "album": "spaghetti"
  },
- "generatedBy": "Friday Night Funkin' - v0.8.1",
+ "generatedBy": "Friday Night Funkin' - v0.8.3",
  "timeChanges": [
   {
    "t": 0,

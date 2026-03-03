@@ -3,7 +3,7 @@
     {
       "danceEvery": 0,
       "zIndex": 1,
-      "position": [-905, -396],
+      "position": [-905, -412],
       "scale": [1, 1],
       "animType": "sparrow",
       "name": "Roof",
@@ -27,7 +27,7 @@
         {
       "danceEvery": 0,
       "zIndex": 2,
-      "position": [-904, -394],
+      "position": [-904, -410],
       "scale": [1, 1],
       "animType": "sparrow",
       "name": "SmallTvS",
@@ -39,7 +39,7 @@
         {
       "danceEvery": 0,
       "zIndex": 3,
-      "position": [-905, -396],
+      "position": [-905, -416],
       "scale": [1, 1],
       "animType": "sparrow",
       "name": "SideTvs",
@@ -66,12 +66,12 @@
   "characters": {
     "bf": {
       "zIndex": 300,
-      "position": [1122, 827],
+      "position": [1122, 757],
       "cameraOffsets": [-100, -100]
     },
     "dad": {
       "zIndex": 200,
-      "position": [282, 798],
+      "position": [282, 758],
       "cameraOffsets": [150, -100]
     },
     "gf": {

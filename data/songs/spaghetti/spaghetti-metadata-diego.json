@@ -1,7 +1,7 @@
 {
   "version": "2.2.4",
-  "songName": "SPAGHETTI (feat. j-hope of BTS) (Diego Mix)(Cover)",
-  "artist": "LE SSERAFIM (feat. j-hope)(feat. DiegozZ)",
+  "songName": "SPAGHETTI (feat. DiegozZ of Vc Team) (Diego Mix)(Cover)",
+  "artist": "LE SSERAFIM (feat. DiegozZ)",
   "charter": "fabs + Spazkid",
   "divisions": 96,
   "looped": false,
@@ -15,7 +15,7 @@
     "songVariations": [],
     "difficulties": ["easy", "normal", "hard"],
     "characters": {
-      "player": "sserafim-sakura",
+      "player": "diego-PLACE",
       "girlfriend": "sserafim-gf",
       "instrumental": "diego",
       "opponent": "sserafim-kazuha",
