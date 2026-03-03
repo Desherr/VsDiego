@@ -8,14 +8,14 @@
 	"startingAnimation": "idle",
 	"assetPath": "characters/PLACE",
 	"healthIcon": {
-		"isPixel": false,
 		"offsets": [
 			0,
 			0
 		],
+		"isPixel": false,
 		"scale": 1,
-		"id": "diego",
-		"flipX": false
+		"flipX": false,
+		"id": "diego"
 	},
 	"generatedBy": "Nova Character Editor v3.0.0",
 	"version": "1.0.0",
@@ -31,11 +31,11 @@
 	"singTime": 8,
 	"flipY": false,
 	"atlasSettings": {
-		"applyStageMatrix": false,
 		"swfMode": true,
+		"applyStageMatrix": false,
 		"useRenderTexture": false,
-		"cacheOnLoad": false,
-		"filterQuality": 1
+		"filterQuality": 1,
+		"cacheOnLoad": false
 	},
 	"animations": [
 		{
@@ -45,73 +45,73 @@
 			],
 			"frameIndices": [],
 			"prefix": "idle0",
-			"animType": "framelabel",
-			"name": "idle",
-			"looped": false,
 			"flipX": false,
+			"looped": false,
+			"name": "idle",
+			"animType": "framelabel",
 			"flipY": false,
-			"frameRate": 24,
-			"assetPath": null
+			"assetPath": null,
+			"frameRate": 24
 		},
 		{
 			"offsets": [
-				-107,
+				-112,
 				5
 			],
 			"frameIndices": [],
 			"prefix": "singRIGHT0",
-			"animType": "framelabel",
-			"name": "singRIGHT",
-			"looped": false,
 			"flipX": false,
+			"looped": false,
+			"name": "singRIGHT",
+			"animType": "framelabel",
 			"flipY": false,
-			"frameRate": 24,
-			"assetPath": null
+			"assetPath": null,
+			"frameRate": 24
 		},
 		{
 			"offsets": [
-				-42,
-				-33
+				-27,
+				-28
 			],
 			"frameIndices": [],
 			"prefix": "singDONW0",
-			"animType": "framelabel",
-			"name": "singDOWN",
-			"looped": false,
 			"flipX": false,
+			"looped": false,
+			"name": "singDOWN",
+			"animType": "framelabel",
 			"flipY": false,
-			"frameRate": 24,
-			"assetPath": null
+			"assetPath": null,
+			"frameRate": 24
 		},
 		{
 			"offsets": [
 				-42,
-				33
+				58
 			],
 			"frameIndices": [],
 			"prefix": "singUP0",
-			"animType": "framelabel",
-			"name": "singUP",
-			"looped": false,
 			"flipX": false,
+			"looped": false,
+			"name": "singUP",
+			"animType": "framelabel",
 			"flipY": false,
-			"frameRate": 24,
-			"assetPath": null
+			"assetPath": null,
+			"frameRate": 24
 		},
 		{
 			"offsets": [
-				127,
+				157,
 				-23
 			],
 			"frameIndices": [],
 			"prefix": "singLEFT0",
-			"animType": "framelabel",
-			"name": "singLEFT",
-			"looped": false,
 			"flipX": false,
+			"looped": false,
+			"name": "singLEFT",
+			"animType": "framelabel",
 			"flipY": false,
-			"frameRate": 24,
-			"assetPath": null
+			"assetPath": null,
+			"frameRate": 24
 		},
 		{
 			"offsets": [
@@ -120,13 +120,13 @@
 			],
 			"frameIndices": [],
 			"prefix": "singRIGHmiss",
-			"animType": "framelabel",
-			"name": "singRIGHmiss",
-			"looped": false,
 			"flipX": false,
+			"looped": false,
+			"name": "singRIGHmiss",
+			"animType": "framelabel",
 			"flipY": false,
-			"frameRate": 24,
-			"assetPath": null
+			"assetPath": null,
+			"frameRate": 24
 		},
 		{
 			"offsets": [
@@ -135,13 +135,13 @@
 			],
 			"frameIndices": [],
 			"prefix": "singDOWNmiss0",
-			"animType": "framelabel",
-			"name": "singDOWNmiss",
-			"looped": false,
 			"flipX": false,
+			"looped": false,
+			"name": "singDOWNmiss",
+			"animType": "framelabel",
 			"flipY": false,
-			"frameRate": 24,
-			"assetPath": null
+			"assetPath": null,
+			"frameRate": 24
 		},
 		{
 			"offsets": [
@@ -150,13 +150,13 @@
 			],
 			"frameIndices": [],
 			"prefix": "singUPmiss0",
-			"animType": "framelabel",
-			"name": "singUPmiss",
-			"looped": false,
 			"flipX": false,
+			"looped": false,
+			"name": "singUPmiss",
+			"animType": "framelabel",
 			"flipY": false,
-			"frameRate": 24,
-			"assetPath": null
+			"assetPath": null,
+			"frameRate": 24
 		},
 		{
 			"offsets": [
@@ -165,13 +165,13 @@
 			],
 			"frameIndices": [],
 			"prefix": "singRIGHTmiss",
-			"animType": "framelabel",
-			"name": "singLEFTmiss",
-			"looped": false,
 			"flipX": false,
+			"looped": false,
+			"name": "singLEFTmiss",
+			"animType": "framelabel",
 			"flipY": false,
-			"frameRate": 24,
-			"assetPath": null
+			"assetPath": null,
+			"frameRate": 24
 		},
 		{
 			"offsets": [
@@ -180,13 +180,13 @@
 			],
 			"frameIndices": [],
 			"prefix": "Yeah0",
-			"animType": "framelabel",
-			"name": "Yeah",
-			"looped": false,
 			"flipX": false,
+			"looped": false,
+			"name": "Yeah",
+			"animType": "framelabel",
 			"flipY": false,
-			"frameRate": 24,
-			"assetPath": null
+			"assetPath": null,
+			"frameRate": 24
 		},
 		{
 			"offsets": [
@@ -195,13 +195,13 @@
 			],
 			"frameIndices": [],
 			"prefix": "Diego Dies",
-			"animType": "framelabel",
-			"name": "firstDeath",
-			"looped": false,
 			"flipX": false,
+			"looped": false,
+			"name": "firstDeath",
+			"animType": "framelabel",
 			"flipY": false,
-			"frameRate": 24,
-			"assetPath": null
+			"assetPath": null,
+			"frameRate": 24
 		},
 		{
 			"offsets": [
@@ -210,13 +210,13 @@
 			],
 			"frameIndices": [],
 			"prefix": "Diego Dead loop",
-			"animType": "framelabel",
-			"name": "deathLoop",
-			"looped": true,
 			"flipX": false,
+			"looped": true,
+			"name": "deathLoop",
+			"animType": "framelabel",
 			"flipY": false,
-			"frameRate": 24,
-			"assetPath": null
+			"assetPath": null,
+			"frameRate": 24
 		},
 		{
 			"offsets": [
@@ -225,13 +225,13 @@
 			],
 			"frameIndices": [],
 			"prefix": "Diego Dead confirm",
-			"animType": "framelabel",
-			"name": "deathConfirm",
-			"looped": false,
 			"flipX": false,
+			"looped": false,
+			"name": "deathConfirm",
+			"animType": "framelabel",
 			"flipY": false,
-			"frameRate": 24,
-			"assetPath": null
+			"assetPath": null,
+			"frameRate": 24
 		}
 	]
 }

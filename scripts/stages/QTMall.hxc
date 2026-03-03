@@ -1,11 +1,13 @@
 import flixel.FlxG;
-import flixel.math.FlxAngle;
+import flixel.FlxSprite;
+import flixel.addons.display.FlxRuntimeShader;
+import flixel.sound.FlxSound;
+import funkin.Conductor;
+import funkin.modding.base.ScriptedFlxRuntimeShader;
+import funkin.graphics.shaders.AdjustColorShader;
 import funkin.play.PlayState;
 import funkin.play.stage.Stage;
-import funkin.graphics.shaders.DropShadowShader;
 import funkin.play.character.CharacterType;
-import openfl.display.BitmapData;
-import flixel.graphics.FlxGraphic;
 
 class QTMallStage extends Stage
 {
@@ -14,57 +16,65 @@ class QTMallStage extends Stage
     super('QTMall');
   }
 
-  function onCreate(event:ScriptEvent):Void
+  var colorShaderBf:AdjustColorShader;
+  var colorShaderDad:AdjustColorShader;
+  var colorShaderGf:AdjustColorShader;
+
+  public override function onCountdownStart(event:CountdownScriptEvent):Void
   {
-    super.onCreate(event);
+    super.onCountdownStart(event);
   }
 
-  var tankmanRim:DropShadowShader;
-
-  public function onGameOver(event:ScriptEvent)
+  function buildStage()
   {
-    super.onGameOver(event);
-    getBoyfriend().shader = null;
+    super.buildStage();
+
+    colorShaderBf = new AdjustColorShader();
+    colorShaderDad = new AdjustColorShader();
+    colorShaderGf = new AdjustColorShader();
+
+    colorShaderBf.brightness = -5;
+    colorShaderBf.hue = 15;
+    colorShaderBf.contrast = 25;
+    colorShaderBf.saturation = -5;
+
+    colorShaderGf.brightness = -25;
+    colorShaderGf.hue = -22;
+    colorShaderGf.contrast = 10;
+    colorShaderGf.saturation = -10;
+
+    colorShaderDad.brightness = -20;
+    colorShaderDad.hue = 30;
+    colorShaderDad.contrast = 30;
+    colorShaderDad.saturation = -30;
   }
 
+  function onBeatHit(event:SongTimeScriptEvent):Void
+  {
+    super.onBeatHit(event);
+  }
+
+  function onStepHit(event:SongTimeScriptEvent):Void
+  {
+    super.onStepHit(event);
+  }
+
+  /**
+   * Apply the shader to the character as it is added.
+   */
   override function addCharacter(character:BaseCharacter, charType:CharacterType):Void
   {
     // Apply the shader automatically to each character as it gets added.
     super.addCharacter(character, charType);
     trace('Applied stage shader to ' + character.characterName);
-
-    var rim = new DropShadowShader();
-    // brightness, hue, saturation, contrast
-    rim.setAdjustColor(-46, -38, -25, -20);
-    rim.color = 0xFFDFEF3C;
-    character.shader = rim;
-    rim.attachedSprite = character;
-
     switch (charType)
     {
       case CharacterType.BF:
-        rim.angle = 90;
-
-      case CharacterType.GF:
-        rim.angle = 90;
-
+        character.shader = colorShaderBf;
       case CharacterType.DAD:
-        rim.angle = 25;
-        rim.threshold = 0.3;
-
-      default:
-        // Do nothing.
+        character.shader = colorShaderDad;
+      case CharacterType.GF:
+        character.shader = colorShaderGf;
     }
-
-    // TODO: This is here because of a Polymod bug!!
-    var character_persist:BaseCharacter = character;
-
-    character.animation.onFrameChange.add(function()
-    {
-      if (character_persist != null)
-      {
-        rim.updateFrameInfo(character_persist.frame);
-      }
-    });
   }
 }

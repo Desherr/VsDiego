@@ -74,10 +74,10 @@
 				-33
 			],
 			"frameIndices": [],
-			"prefix": "singDOWN0",
+			"prefix": "singDOWN",
 			"flipX": false,
 			"looped": false,
-			"name": "singDOWN",
+			"name": "singDONW",
 			"animType": "framelabel",
 			"flipY": false,
 			"assetPath": null,

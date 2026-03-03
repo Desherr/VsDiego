@@ -21,6 +21,13 @@
       "offsets": [0, -9]
     },
     {
+      "assetPath": "characters/rokyPLACEDANCE",
+      "name": "EpicDance",
+      "prefix": "rokyEPICDANCE0",
+      "looped": true,
+      "offsets": [0, -9]
+    },
+    {
       "name": "sad",
       "prefix": "rokyPlace",
       "frameIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
