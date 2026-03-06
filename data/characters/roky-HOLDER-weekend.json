@@ -1,17 +1,17 @@
 {
   "version": "1.0.0",
-  "name": "Roky(HOLDER)",
-  "assetPath": "characters/rokyPLACE",
+  "name": "Roky (HOLDER weekend)",
+  "assetPath": "characters/rokyPLACE_weekend",
   "startingAnimation": "danceRight",
   "scale": 1.05,
   "singTime": 8.0,
   "animations": [
     {
       "name": "danceLeft",
-      "prefix": "rokyPlace",
+      "prefix": "rokyPlaceEND1",
       "frameIndices": [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14,15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
       "looped": true,
-      "offsets": [0, -9]
+      "offsets": [0, -100]
     },
     {
       "assetPath": "characters/rokyPLACEDANCE",
@@ -22,23 +22,23 @@
     },
     {
       "name": "sad",
-      "prefix": "rokyPlace",
+      "prefix": "rokyPlaceEND1",
       "frameIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "offsets": [0, -17]
     },
     {
       "name": "singLEFT",
-      "prefix": "rokyPlace",
+      "prefix": "rokyPlaceEND1",
       "offsets": [0, -8]
     },
     {
       "name": "singDOWN",
-      "prefix": "rokyPlace",
+      "prefix": "rokyPlaceEND1",
       "offsets": [0, -9]
     },
     {
       "name": "singUP",
-      "prefix": "rokyPlace",
+      "prefix": "rokyPlaceEND1",
       "offsets": [0, -9]
     },
     {
@@ -48,45 +48,45 @@
     },
     {
       "name": "cheer",
-      "prefix": "rokyPlace",
-      "offsets": [0, -9]
+      "prefix": "rokyPlaceEND1",
+      "offsets": [0, -100]
     },
     {
       "name": "combo50",
-      "prefix": "rokyPlace",
-      "offsets": [1, -11]
+      "prefix": "rokyPlaceEND1",
+      "offsets": [1, -100]
     },
     {
       "name": "combo100",
-      "prefix": "rokyPlace",
-      "offsets": [1, -11]
+      "prefix": "rokyPlaceEND1",
+      "offsets": [1, -100]
     },
     {
       "name": "combo200",
-      "prefix": "rokyPlace",
-      "offsets": [1, -11]
+      "prefix": "rokyPlaceEND1",
+      "offsets": [1, -100]
     },
     {
       "name": "drop70",
-      "prefix": "rokyPlace",
+      "prefix": "rokyPlaceEND1",
       "frameIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-      "offsets": [0, -12]
+      "offsets": [0, -100]
     },
     {
       "name": "hairBlow",
-      "prefix": "rokyPlace",
+      "prefix": "rokyPlaceEND1",
       "frameIndices": [0, 1, 2, 3],
       "offsets": [0, -12]
     },
     {
       "name": "hairFall",
-      "prefix": "rokyPlace",
+      "prefix": "rokyPlaceEND1",
       "frameIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
       "offsets": [0, -11]
     },
     {
       "name": "scared",
-      "prefix": "rokyPlace",
+      "prefix": "rokyPlaceEND1",
       "offsets": [-3, -17]
     }
   ]

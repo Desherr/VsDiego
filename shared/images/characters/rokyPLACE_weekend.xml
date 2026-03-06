@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rokyPLACE_weekend.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rokyPlaceEND10000" x="0" y="0" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10001" x="794" y="0" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10002" x="1588" y="0" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10003" x="2382" y="0" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10004" x="3176" y="0" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10005" x="3970" y="0" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10006" x="4764" y="0" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10007" x="5558" y="0" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10008" x="6352" y="0" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10009" x="7146" y="0" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10010" x="0" y="886" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10011" x="0" y="886" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10012" x="794" y="886" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10013" x="794" y="886" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10014" x="1588" y="886" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10015" x="2382" y="886" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10016" x="3176" y="886" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10017" x="3970" y="886" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10018" x="4764" y="886" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10019" x="5558" y="886" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10020" x="6352" y="886" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10021" x="7146" y="886" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10022" x="0" y="1772" width="794" height="886"/>
+	<SubTexture name="rokyPlaceEND10023" x="794" y="1772" width="794" height="886"/>
+</TextureAtlas>
