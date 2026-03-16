@@ -3,7 +3,7 @@
   "name": "Roky",
   "assetPath": "characters/rokyPLACEDANCE",
   "startingAnimation": "danceRight",
-  "scale": 1.05,
+  "offsets": [0, -9],
   "singTime": 8.0,
   "animations": [
     {
