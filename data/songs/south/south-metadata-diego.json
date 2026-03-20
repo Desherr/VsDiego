@@ -11,9 +11,9 @@
    "hard"
   ],
   "characters": {
-   "player": "diego-PLACE-dark",
-   "girlfriend": "roky-dark",
-   "opponent": "spooky-dark",
+   "player": "diego-PLACE",
+   "girlfriend": "roky",
+   "opponent": "spooky",
    "instrumental": "diego",
    "opponentVocals": [
     "spooky"
@@ -22,7 +22,7 @@
     "diego"
    ]
   },
-  "stage": "spookyMansionErect",
+  "stage": "SpookyStore",
   "noteStyle": "funkin",
   "ratings": {
    "easy": 2,

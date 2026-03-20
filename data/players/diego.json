@@ -71,8 +71,7 @@
   "charSelect": {
     "position": 4,
     "gf": {
-      "assetPath": "charSelect/gfChill",
-      "animInfoPath": "charSelect/gfAnimInfo",
+      "assetPath": "charSelect/rokyChill",
       "visualizer": false
     }
   },

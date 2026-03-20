@@ -1,0 +1,37 @@
+{
+  "props": [
+    {
+      "danceEvery": 0,
+      "zIndex": 0,
+      "position": [-1319, -1108],
+      "scale": [3.50, 3.50],
+      "animType": "sparrow",
+      "name": "AuditorumPLACEHOLDER",
+      "isPixel": false,
+      "assetPath": "Theather-Week1/AuditorumPLACEHOLDER",
+      "scroll": [1.0, 1.0],
+      "animations": []
+    }
+  ],
+  "cameraZoom": 0.50,
+  "version": "1.0.0",
+  "characters": {
+    "bf": {
+      "zIndex": 300,
+      "position": [989.5, 885],
+      "cameraOffsets": [-100, -100]
+    },
+    "dad": {
+      "zIndex": 200,
+      "position": [135, 885],
+      "cameraOffsets": [150, -100]
+    },
+    "gf": {
+      "zIndex": 100,
+      "cameraOffsets": [36, -150],
+      "position": [525, 885]
+    }
+  },
+  "name": "Theather [WIP]",
+  "directory": "Theather-Week1"
+}

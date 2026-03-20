@@ -1,0 +1,37 @@
+{
+  "props": [
+    {
+      "danceEvery": 0,
+      "zIndex": 0,
+      "position": [-838, -737],
+      "scale": [0.50, 0.50],
+      "animType": "sparrow",
+      "name": "SpookyStore",
+      "isPixel": false,
+      "assetPath": "SpookyStoreWeek2/SpookyStore",
+      "scroll": [1.00, 1.00],
+      "animations": []
+    }
+  ],
+  "cameraZoom": 0.55,
+  "version": "1.0.0",
+  "characters": {
+    "bf": {
+      "zIndex": 300,
+      "position": [995, 684],
+      "cameraOffsets": [-23, -60]
+    },
+    "dad": {
+      "zIndex": 200,
+      "position": [240, 657],
+      "cameraOffsets": [150, -100]
+    },
+    "gf": {
+      "zIndex": 100,
+      "cameraOffsets": [36, -150],
+      "position": [669.5, 523]
+    }
+  },
+  "name": "Spooky Store [WIP]",
+  "directory": "SpookyStoreWeek2"
+}
