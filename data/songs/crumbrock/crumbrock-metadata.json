@@ -1,0 +1,92 @@
+{
+ "version": "2.2.4",
+ "songName": "Crumbrock (W.I.P)",
+ "artist": "Alter_B4ra (ft. PanchoInAud)",
+ "charter": "DiegozZ",
+ "offsets": { },
+ "playData": {
+  "difficulties": [
+   "easy",
+   "normal",
+   "hard"
+  ],
+  "characters": {
+   "player": "bf",
+   "girlfriend": "gf",
+   "opponent": "diego-PLACEoponent",
+   "opponentVocals": [
+    "diego"
+   ],
+   "playerVocals": [
+    "bf"
+   ]
+  },
+  "stage": "newJORKhall",
+  "noteStyle": "funkin",
+  "album": "volume1diegoBF",
+  "stickerPack": "week-Dg-standard",
+  "ratings": {
+   "easy": 2,
+   "normal": 4,
+   "hard": 6
+  },
+  "previewEnd": 0
+ },
+ "generatedBy": "Friday Night Funkin' - v0.8.1",
+ "timeChanges": [
+  {
+   "t": 0,
+   "b": 0,
+   "bpm": 110,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 41486.0909,
+   "b": 76.0578,
+   "bpm": 110,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 54593.0001,
+   "b": 100.0871,
+   "bpm": 110,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 68548.0001,
+   "b": 125.6713,
+   "bpm": 110,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 71413,
+   "b": 130.9238,
+   "bpm": 110,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 77512.6422,
+   "b": 142.1065,
+   "bpm": 110,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 96877.5456,
+   "b": 177.6088,
+   "bpm": 110,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 103427.0001,
+   "b": 189.6161,
+   "bpm": 110,
+   "bt": [4, 4, 4, 4]
+  },
+  {
+   "t": 107472.2025,
+   "b": 197.0323,
+   "bpm": 110,
+   "bt": [4, 4, 4, 4]
+  }
+ ]
+}
