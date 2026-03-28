@@ -35,8 +35,9 @@
     "noteStyle": "funkin",
     "album": "volume1diego",
     "ratings": {
-      "hard": 11,
-      "normal": 7
+      "easy": 4,
+      "hard": 8,
+      "normal": 6
     },
     "previewStart": 0,
     "previewEnd": 0
