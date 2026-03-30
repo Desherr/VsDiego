@@ -1,16 +1,17 @@
 {
   "version": "1.0.0",
   "name": "YOUR FRIENDLY MATE DIEGO",
-  "titleAsset": "storymenu/titles/weekdg",
+  "titleAsset": "storymenu/titles/weekback",
   "props": [
     {
       "assetPath": "storymenu/props/diego",
-      "scale": 0.7,
-      "offsets": [100, -10],
+      "flipX": true,
+      "scale": 0.6,
+      "offsets": [60, -70],
       "animations": [
         {
           "name": "idle",
-          "prefix": "idle dance 000",
+          "prefix": "idle",
           "frameRate": 24
         }
       ]
@@ -52,6 +53,6 @@
       ]
     }
   ],
-  "background": "#2E872E",
+  "background": "#4E71BF",
   "songs": ["backshot", "crumbrock", "hope-on-the-rock"]
 }

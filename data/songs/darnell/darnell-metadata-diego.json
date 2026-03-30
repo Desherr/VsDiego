@@ -14,11 +14,12 @@
    "player": "diego-PLACE",
    "girlfriend": "roky",
    "opponent": "darnell",
+   "instrumental": "diego",
    "opponentVocals": [
-    "dad"
+    "darnell"
    ],
    "playerVocals": [
-    "bf"
+    "diego"
    ]
   },
   "stage": "phillyStreetsErect",
@@ -26,6 +27,7 @@
   "ratings": {
    "hard": 11
   },
+  "album": "volume1diego",
   "previewEnd": 0
  },
  "generatedBy": "Friday Night Funkin' - v0.8.4",
