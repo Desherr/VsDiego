@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
-  "name": "UST Volume 1",
-  "artists": ["DiegozZ"],
+  "name": "OST Expansion Vol. 1",
+  "artists": ["DiegozZ", "KRYOMA", "TotallyZary", "PanchoInAud", "Calacochido", "DaOneJuda", "DETOUR", "Bany_Bara"],
   "albumArtAsset": "freeplay/albumRoll/diegomixesv1",
   "albumTitleAsset": "freeplay/albumRoll/diegomixesv1-text",
-  "albumTitleOffsets": [10, 120],
-  "albumOSTName": "OFFICIAL DIEGO MIXES VOL 1 OST"
+  "albumTitleOffsets": [-45, 0],
+  "albumOSTName": "CHUD"
 }

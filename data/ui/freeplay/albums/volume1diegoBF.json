@@ -1,7 +1,9 @@
 {
   "version": "1.0.0",
-  "name": "UST Volume 1",
-  "artists": ["!MayerXD"],
+  "name": "OST DIEGO TAKEOVER",
+  "artists": ["!MayerXD", "Bany_Bara", "CalacoChido"],
   "albumArtAsset": "freeplay/albumRoll/diegoVol1",
-  "albumTitleAsset": "freeplay/albumRoll/diegoVol1-text"
+  "albumTitleAsset": "freeplay/albumRoll/diegoVol1-text",
+  "albumTitleOffsets": [-25, 0],
+  "albumOSTName":"my chudding son"
 }

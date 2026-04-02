@@ -80,8 +80,8 @@
       "PERFECT_GOLD": "resultsPERFECT",
       "PERFECT": "resultsPERFECT",
       "EXCELLENT": "resultsEXCELLENT-pico",
-      "GREAT": "resultsNORMAL",
-      "GOOD": "resultsNORMAL",
+      "GREAT": "resultsNORMAL-diego",
+      "GOOD": "resultsNORMAL-diego",
       "SHIT": "resultsSHIT-diego"
     },
     "perfectGold": [

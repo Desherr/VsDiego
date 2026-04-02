@@ -1,0 +1,40 @@
+{
+  "props": [
+    {
+      "danceEvery": 0,
+      "zIndex": 0,
+      "position": [-669, -239],
+      "scale": [2.80, 2.80],
+      "animType": "sparrow",
+      "name": "HallPlace",
+      "isPixel": false,
+      "assetPath": "new hall/HALL",
+      "scroll": [1.00, 1.00],
+      "animations": []
+    }
+  ],
+  "cameraZoom": 0.55,
+  "version": "1.0.0",
+  "characters": {
+    "bf": {
+      "zIndex": 300,
+      "position": [1138, 1006],
+      "cameraOffsets": [-50, -100],
+      "scale": 1.02
+    },
+    "dad": {
+      "zIndex": 200,
+      "position": [190.75, 1019.85],
+      "cameraOffsets": [163, -156],
+      "scale": 1.05
+    },
+    "gf": {
+      "zIndex": 100,
+      "cameraOffsets": [40, -171],
+      "position": [637.5, 895],
+      "scale": 0.9
+    }
+  },
+  "name": "NewJerkHall [WIP]",
+  "directory": "new hall"
+}
