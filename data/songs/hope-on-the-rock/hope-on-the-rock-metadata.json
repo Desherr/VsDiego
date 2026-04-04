@@ -1,7 +1,7 @@
 {
   "version": "2.2.4",
   "songName": "Hope on the Rock",
-  "artist": "Fines",
+  "artist": "Calaco (ft. Alter_B4ra)",
   "charter": "DiegozZ",
   "divisions": 96,
   "looped": false,
@@ -31,7 +31,7 @@
         "bf"
       ]
     },
-    "stage": "newJORKhall",
+    "stage": "newJerkHallWIP",
     "noteStyle": "funkin",
     "album": "volume1diegoBF",
     "stickerPack": "week-Dg-standard",
