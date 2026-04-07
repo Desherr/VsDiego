@@ -10,6 +10,6 @@ class DiegoPlayableCharacter extends PlayableCharacter
 
   override function isUnlocked(true):Bool
   {
-    return Save.instance.hasBeatenLevel('weekDg');
+    return Save.instance.hasBeatenLevel('weekback');
   }
 }

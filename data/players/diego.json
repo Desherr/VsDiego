@@ -77,8 +77,8 @@
   },
   "results": {
     "music": {
-      "PERFECT_GOLD": "resultsPERFECT",
-      "PERFECT": "resultsPERFECT",
+      "PERFECT_GOLD": "resultsPERFECT-diego",
+      "PERFECT": "resultsPERFECT-diego",
       "EXCELLENT": "resultsEXCELLENT-pico",
       "GREAT": "resultsNORMAL-diego",
       "GOOD": "resultsNORMAL-diego",
@@ -87,81 +87,22 @@
     "perfectGold": [
       {
         "renderType": "animateatlas",
-        "assetPath": "shared:resultScreen/results-bf/resultsPERFECT/bed",
+        "assetPath": "shared:resultScreen/results-diego/resultsPERFECT",
         "startFrameLabel": "INTRO",
-        "filter": "naughty",
         "zIndex": 500,
-        "offsets": [1342, 370],
+        "offsets": [650, 0],
         "loopFrameLabel": "LOOP START"
-      },
-      {
-        "renderType": "animateatlas",
-        "assetPath": "shared:resultScreen/results-bf/resultsPERFECT/hearts",
-        "filter": "naughty",
-        "zIndex": 501,
-        "delay": 4.41,
-        "offsets": [1342, 370],
-        "loopFrame": 43
-      },
-      {
-        "renderType": "animateatlas",
-        "assetPath": "shared:resultScreen/results-bf/resultsPERFECT/bed",
-        "startFrameLabel": "INTRO 2",
-        "filter": "safe",
-        "zIndex": 500,
-        "offsets": [1342, 370],
-        "loopFrameLabel": "LOOP 2"
-      },
-      {
-        "renderType": "animateatlas",
-        "assetPath": "shared:resultScreen/results-bf/resultsPERFECT/tickleFight",
-        "filter": "safe",
-        "zIndex": 501,
-        "delay": 4.41,
-        "offsets": [650, 370],
-        "scale": 0.6,
-        "sound": "shared:tickleFight",
-        "loopFrameLabel": "LOOP"
       }
     ],
     "perfect": [
       {
         "renderType": "animateatlas",
-        "assetPath": "shared:resultScreen/results-bf/resultsPERFECT/bed",
+        "assetPath": "shared:resultScreen/results-diego/resultsPERFECT",
+        "scale": 0.8,
         "startFrameLabel": "INTRO",
-        "filter": "naughty",
         "zIndex": 500,
-        "offsets": [1342, 370],
+        "offsets": [650, 0],
         "loopFrameLabel": "LOOP START"
-      },
-      {
-        "renderType": "animateatlas",
-        "assetPath": "shared:resultScreen/results-bf/resultsPERFECT/hearts",
-        "filter": "naughty",
-        "zIndex": 501,
-        "delay": 4.41,
-        "offsets": [1342, 370],
-        "loopFrame": 43
-      },
-      {
-        "renderType": "animateatlas",
-        "assetPath": "shared:resultScreen/results-bf/resultsPERFECT/bed",
-        "startFrameLabel": "INTRO 2",
-        "filter": "safe",
-        "zIndex": 500,
-        "offsets": [1342, 370],
-        "loopFrameLabel": "LOOP 2"
-      },
-      {
-        "renderType": "animateatlas",
-        "assetPath": "shared:resultScreen/results-bf/resultsPERFECT/tickleFight",
-        "filter": "safe",
-        "zIndex": 501,
-        "delay": 4.41,
-        "offsets": [650, 370],
-        "scale": 0.6,
-        "sound": "shared:tickleFight",
-        "loopFrameLabel": "LOOP"
       }
     ],
     "excellent": [

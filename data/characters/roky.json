@@ -10,7 +10,7 @@
 		"isPixel": false,
 		"scale": 1,
 		"flipX": false,
-		"id": "roky-tutorials"
+		"id": "roky"
 	},
   "assetPath": "shared:characters/Roky",
   "startingAnimation": "rokyIdle",
