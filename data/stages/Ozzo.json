@@ -3,7 +3,7 @@
     {
       "danceEvery": 0,
       "zIndex": 10,
-      "position": [-298, -340],
+      "position": [-898, -200],
       "scale": [2.20, 2.20],
       "animType": "sparrow",
       "name": "SkyBOX",
@@ -16,7 +16,7 @@
     {
       "danceEvery": 0,
       "zIndex": 20,
-      "position": [-298, -199],
+      "position": [-798, -99],
       "scale": [2.20, 2.20],
       "animType": "sparrow",
       "name": "cityBACK",
@@ -31,7 +31,7 @@
     {
       "danceEvery": 0,
       "zIndex": 30,
-      "position": [-300, -88],
+      "position": [-1065, 150],
       "scale": [2.20, 2.20],
       "animType": "sparrow",
       "name": "buildingFRONT",
@@ -43,100 +43,8 @@
     },
     {
       "danceEvery": 0,
-      "zIndex": 40,
-      "position": [661, 531],
-      "scale": [2.10, 2.10],
-      "animType": "sparrow",
-      "name": "phillyCars",
-      "isPixel": false,
-      "assetPath": "phillyStreets/phillyCars",
-      "scroll": [0.9, 1],
-      "alpha": 1,
-      "animations": [
-        {
-          "name": "car1",
-          "offsets": [0, 0],
-          "prefix": "car1",
-          "frameRate": 24,
-          "flipX": false,
-          "flipY": false
-        },
-        {
-          "name": "car2",
-          "prefix": "car2",
-          "frameRate": 24,
-          "flipX": false,
-          "flipY": false,
-          "offsets": [0, 0]
-        },
-        {
-          "name": "car3",
-          "offsets": [0, 0],
-          "prefix": "car3",
-          "frameRate": 24,
-          "flipX": false,
-          "flipY": false
-        },
-        {
-          "name": "car4",
-          "offsets": [0, 0],
-          "prefix": "car4",
-          "frameRate": 24,
-          "flipX": false,
-          "flipY": false
-        }
-      ]
-    },
-    {
-      "danceEvery": 0,
-      "zIndex": 40,
-      "position": [-312, 529],
-      "scale": [2.10, 2.10],
-      "animType": "sparrow",
-      "name": "phillyCars2",
-      "isPixel": false,
-      "assetPath": "phillyStreets/phillyCars",
-      "scroll": [0.9, 1],
-      "alpha": 1,
-      "animations": [
-        {
-          "name": "car1",
-          "offsets": [0, 0],
-          "prefix": "car1",
-          "frameRate": 24,
-          "flipX": true,
-          "flipY": false
-        },
-        {
-          "name": "car2",
-          "prefix": "car2",
-          "frameRate": 24,
-          "flipX": true,
-          "flipY": false,
-          "offsets": [0, 0]
-        },
-        {
-          "name": "car3",
-          "offsets": [0, 0],
-          "prefix": "car3",
-          "frameRate": 24,
-          "flipX": true,
-          "flipY": false
-        },
-        {
-          "name": "car4",
-          "offsets": [0, 0],
-          "prefix": "car4",
-          "frameRate": 24,
-          "flipX": true,
-          "flipY": false
-        }
-      ]
-    },
-    {
-      "danceEvery": 0,
       "zIndex": 60,
-      "position": [2746, -104],
+      "position": [2746, 154],
       "scale": [2.20, 2.20],
       "animType": "sparrow",
       "name": "moster",
@@ -149,7 +57,7 @@
         {
       "danceEvery": 0,
       "zIndex": 50,
-      "position": [-297, -215],
+      "position": [-1297, -65],
       "scale": [2.20, 2.20],
       "animType": "sparrow",
       "name": "Ozzo",
@@ -162,7 +70,7 @@
     {
       "danceEvery": 0,
       "zIndex": 1000,
-      "position": [444, 90],
+      "position": [444, 240],
       "scale": [2.20, 2.20],
       "animType": "sparrow",
       "name": "luz",
@@ -176,7 +84,7 @@
     {
       "danceEvery": 0,
       "zIndex": 1000,
-      "position": [444, 90],
+      "position": [444, 240],
       "scale": [2.20, 2.20],
       "animType": "sparrow",
       "name": "luz (1)",
@@ -190,7 +98,7 @@
     {
       "danceEvery": 0,
       "zIndex": 1000,
-      "position": [444, 90],
+      "position": [444, 240],
       "scale": [2.20, 2.20],
       "animType": "sparrow",
       "name": "luz (2)",
@@ -204,7 +112,7 @@
     {
       "danceEvery": 0,
       "zIndex": 1000,
-      "position": [444, 90],
+      "position": [444, 240],
       "scale": [2.20, 2.20],
       "animType": "sparrow",
       "name": "luz (3)",
@@ -216,22 +124,22 @@
       "animations": []
     }
   ],
-  "cameraZoom": 0.77,
+  "cameraZoom": 0.55,
   "version": "1.0.0",
   "characters": {
     "bf": {
       "zIndex": 400,
-      "position": [2093, 1186],
+      "position": [2093, 1291],
       "cameraOffsets": [-250, -50]
     },
     "gf": {
       "zIndex": 300,
-      "position": [1526.85, 1046.3],
+      "position": [1526.85, 1146.3],
       "cameraOffsets": [0, 0]
     },
     "dad": {
       "zIndex": 350,
-      "position": [848, 1284],
+      "position": [848, 1384],
       "cameraOffsets": [67, -58],
       "scale": 1.05
     }

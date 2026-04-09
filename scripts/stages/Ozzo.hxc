@@ -16,12 +16,20 @@ import openfl.filters.BlurFilter;
 import openfl.filters.ShaderFilter;
 import funkin.graphics.shaders.AdjustColorShader;
 import funkin.play.character.CharacterType;
+import funkin.play.character.BaseCharacter;
 import funkin.util.FlxTweenUtil;
 import flixel.addons.display.FlxTiledSprite;
 import StringTools;
 
 class OzzoStage extends Stage
 {
+  var colorShader:AdjustColorShader;
+	var rimColor:Int = 0xFF5756A3;
+	var rimThreshold:Float = 0.15;
+	var rimAngleBF:Float = 90;
+	var rimAngleGF:Float = 90;
+	var rimAngleDAD:Float = 90;
+  
   var rainShader:RuntimeRainShader = new RuntimeRainShader();
   var rainShaderFilter:ShaderFilter;
   var blurFilter:BlurFilter = new BlurFilter(6, 6);
@@ -41,12 +49,34 @@ class OzzoStage extends Stage
   var carInterruptable:Bool = true; // if the car can be reset
   var car2Interruptable:Bool = true;
 
-  var scrollingSky:FlxTiledSprite;
-
   function new()
   {
     super('Ozzo');
   }
+
+public override function onCountdownStart(event:CountdownScriptEvent):Void 
+	{
+		super.onCountdownStart(event);
+		shadersApplied = false;
+	}
+
+	public override function buildStage():Void
+	{
+		super.buildStage();
+		
+		colorShader = new AdjustColorShader();
+		colorShader.hue = -30;
+		colorShader.saturation = -20;
+		colorShader.contrast = 0;
+		colorShader.brightness = -30;
+	}
+
+	override function addCharacter(character:BaseCharacter, charType:CharacterType):Void
+	{
+		super.addCharacter(character, charType);
+		trace('Applied stage shader to ' + character.characterName);
+		character.shader = colorShader;
+	}
 
   /**
    * Changes the current state of the traffic lights.
@@ -156,20 +186,6 @@ class OzzoStage extends Stage
     resetStageValues();
   }
 
-  override function buildStage()
-  {
-    super.buildStage();
-
-    scrollingSky = new FlxTiledSprite(Paths.image('Ozzo-Weekend/SKYbox'), 2922, 718, true, false);
-    scrollingSky.setPosition(-650, -375);
-    scrollingSky.scrollFactor.set(0.1, 0.1);
-    scrollingSky.zIndex = 10;
-    scrollingSky.scale.set(0.65, 0.65);
-
-    add(scrollingSky);
-    refresh(); // Apply z-index.
-  }
-
   override function onDestroy(event:ScriptEvent)
   {
     super.onDestroy();
@@ -246,8 +262,6 @@ class OzzoStage extends Stage
       rainShader.updateViewInfo(FlxG.width, FlxG.height, FlxG.camera);
       rainShader.update(event.elapsed);
     }
-
-    if (scrollingSky != null) scrollingSky.scrollX -= FlxG.elapsed * 22;
 
     // if (rainSndAmbience != null) {
     // 	rainSndAmbience.volume = Math.min(0.3, remappedIntensityValue * 2);
@@ -365,11 +379,5 @@ class OzzoStage extends Stage
       // frameBufferMan.copySpriteTo("mask", prop, 0x000000);
     }
   }
-
-  override function addCharacter(character:BaseCharacter, charType:CharacterType)
-  {
-    super.addCharacter(character, charType);
-    // add to the mask so that characters hide puddles
-    // frameBufferMan.copySpriteTo("mask", character, 0x000000);
-  }
 }
+
