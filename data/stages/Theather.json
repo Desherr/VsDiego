@@ -51,7 +51,7 @@
     {
       "danceEvery": 0,
       "zIndex": 5,
-      "position": [-3255, 625],
+      "position": [-2562, 625],
       "scale": [1.0, 1.0],
       "animType": "sparrow",
       "name": "Ground",
@@ -63,7 +63,7 @@
     {
       "danceEvery": 0,
       "zIndex": 6,
-      "position": [-685, -1133],
+      "position": [-685, -933],
       "scale": [1.0, 1.0],
       "animType": "sparrow",
       "name": "Speaker1",
@@ -75,7 +75,7 @@
     {
       "danceEvery": 0,
       "zIndex": 7,
-      "position": [1062, -1135],
+      "position": [1062, -935],
       "scale": [1.0, 1.0],
       "animType": "sparrow",
       "name": "Speaker2",
@@ -87,7 +87,7 @@
     {
       "danceEvery": 0,
       "zIndex": 8,
-      "position": [-3218, -1602],
+      "position": [-2071, -1202],
       "scale": [1.0, 1.0],
       "animType": "sparrow",
       "name": "Curtain1",
@@ -99,7 +99,7 @@
     {
       "danceEvery": 0,
       "zIndex": 9,
-      "position": [1526, -1519],
+      "position": [1556, -1219],
       "scale": [1.0, 1.0],
       "animType": "sparrow",
       "name": "Curtain2",
