@@ -5,6 +5,9 @@
  "charter": "DiegozZ",
  "offsets": { },
  "playData": {
+  "songVariations": [
+   "erect"
+  ],
   "difficulties": [
    "easy",
    "normal",
@@ -21,7 +24,7 @@
     "bf"
    ]
   },
-  "stage": "newJerkHallWIP",
+  "stage": "mainStage",
   "noteStyle": "funkin",
   "album": "volume1diegoBF",
   "stickerPack": "week-Dg-standard",
@@ -32,7 +35,7 @@
   },
   "previewEnd": 0
  },
- "generatedBy": "Friday Night Funkin' - v0.8.1",
+ "generatedBy": "Friday Night Funkin' - v0.8.4",
  "timeChanges": [
   {
    "t": 0,
