@@ -15,7 +15,7 @@
     "songVariations": [],
     "difficulties": ["easy", "normal", "hard"],
     "characters": {
-      "player": "diego-PLACE",
+      "player": "diego",
       "girlfriend": "sserafim-gf",
       "instrumental": "diego",
       "opponent": "sserafim-kazuha",

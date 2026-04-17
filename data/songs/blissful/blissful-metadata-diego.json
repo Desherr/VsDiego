@@ -12,7 +12,7 @@
     "songVariations": [],
     "difficulties": ["easy", "normal", "hard"],
     "characters": {
-      "player": "diego-PLACE","girlfriend": "roky","opponent": "qt",
+      "player": "diego","girlfriend": "roky","opponent": "qt",
       "instrumental": "diego","playerVocals": ["diego"],"opponentVocals": ["qt"], "altInstrumentals": ["pico",""]
     },
     "stage": "QTMall",

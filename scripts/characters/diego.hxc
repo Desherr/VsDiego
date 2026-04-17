@@ -11,7 +11,7 @@ class DiegoCharacter extends SparrowCharacter
 {
 	function new()
 	{
-		super('diego-PLACE');
+		super('diego');
 		ignoreExclusionPref.push("shoot");
 	}
 
