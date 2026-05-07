@@ -1,0 +1,38 @@
+{
+  "props": [
+    {
+      "danceEvery": 0,
+      "zIndex": 0,
+      "position": [-1307, -665],
+      "scale": [1.00, 1.00],
+      "animType": "sparrow",
+      "name": "Ozzo",
+      "isPixel": false,
+      "assetPath": "Ozzo-Weekend/refereceNEW",
+      "scroll": [1.00, 1.00],
+      "animations": []
+    }
+  ],
+  "cameraZoom": 0.45,
+  "version": "1.0.0",
+  "characters": {
+    "bf": {
+      "zIndex": 400,
+      "position": [1012, 929],
+      "cameraOffsets": [-100, -100]
+    },
+    "gf": {
+      "zIndex": 300,
+      "position": [452, 639],
+      "cameraOffsets": [-25, 42],
+      "scale": 0.90
+    },
+    "dad": {
+      "zIndex": 350,
+      "position": [3, 947],
+      "cameraOffsets": [67, -58]
+    }
+  },
+  "name": "OzzO [NEW] (Night)",
+  "directory": "Ozzo-Weekend"
+}
