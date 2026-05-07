@@ -55,7 +55,7 @@
 		},
 		{
 			"offsets": [
-				-112,
+				-102,
 				5
 			],
 			"frameIndices": [],
@@ -70,8 +70,8 @@
 		},
 		{
 			"offsets": [
-				-27,
-				-28
+				-47,
+				-23
 			],
 			"frameIndices": [],
 			"prefix": "singDOWN0",
@@ -85,8 +85,8 @@
 		},
 		{
 			"offsets": [
-				-42,
-				58
+				-57,
+				73
 			],
 			"frameIndices": [],
 			"prefix": "singUP0",
@@ -100,7 +100,7 @@
 		},
 		{
 			"offsets": [
-				157,
+				197,
 				-23
 			],
 			"frameIndices": [],
@@ -115,7 +115,7 @@
 		},
 		{
 			"offsets": [
-				-27,
+				203,
 				-15
 			],
 			"frameIndices": [],
@@ -131,7 +131,7 @@
 		{
 			"offsets": [
 				-42,
-				-33
+				-3
 			],
 			"frameIndices": [],
 			"prefix": "singDOWNmiss",
@@ -146,7 +146,7 @@
 		{
 			"offsets": [
 				-37,
-				33
+				73
 			],
 			"frameIndices": [],
 			"prefix": "singUPmiss",
@@ -160,11 +160,11 @@
 		},
 		{
 			"offsets": [
-				-118,
+				-113,
 				2
 			],
 			"frameIndices": [],
-			"prefix": "singRIGHTmiss",
+			"prefix": "singRIGHTmiss0",
 			"flipX": false,
 			"looped": false,
 			"name": "singLEFTmiss",
@@ -176,7 +176,7 @@
 		{
 			"offsets": [
 				-72,
-				5
+				-5
 			],
 			"frameIndices": [],
 			"prefix": "Yeah0",
@@ -190,7 +190,7 @@
 		},
 		{
 			"offsets": [
-				-1,
+				39,
 				4
 			],
 			"frameIndices": [],
