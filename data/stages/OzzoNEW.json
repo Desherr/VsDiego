@@ -2,18 +2,147 @@
   "props": [
     {
       "danceEvery": 0,
-      "zIndex": 0,
+      "zIndex": 50,
       "position": [-1307, -665],
       "scale": [1.00, 1.00],
       "animType": "sparrow",
       "name": "Ozzo",
       "isPixel": false,
-      "assetPath": "Ozzo-Weekend/refereceNEW",
+      "assetPath": "Ozzo-Weekend/new/ozzo",
       "scroll": [1.00, 1.00],
       "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 45,
+      "position": [589.5, -69.5],
+      "scale": [1.00, 1.00],
+      "animType": "sparrow",
+      "name": "OzzoInside",
+      "isPixel": false,
+      "assetPath": "Ozzo-Weekend/new/ozzoInside",
+      "scroll": [0.98, 1.00],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 5,
+      "position": [-1150, -550],
+      "scale": [1.00, 1.00],
+      "animType": "sparrow",
+      "name": "SkyBox",
+      "isPixel": false,
+      "assetPath": "Ozzo-Weekend/new/skyBox",
+      "scroll": [0.30, 0.30],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 8,
+      "position": [-1200, -350],
+      "scale": [1.00, 1.00],
+      "animType": "sparrow",
+      "name": "CityBack",
+      "isPixel": false,
+      "assetPath": "Ozzo-Weekend/new/cityBack",
+      "scroll": [0.47, 0.47],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 10,
+      "position": [-1229, -510],
+      "scale": [1.00, 1.00],
+      "animType": "sparrow",
+      "name": "CityFront",
+      "isPixel": false,
+      "assetPath": "Ozzo-Weekend/new/cityFront",
+      "scroll": [0.67, 0.67],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 40,
+      "position": [-345, 30],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "phillyTraffic",
+      "isPixel": false,
+      "flipX": true,
+      "assetPath": "Ozzo-Weekend/new/phillyTraffic",
+      "scroll": [0.9, 1],
+      "alpha": 1,
+      "animations": [
+        {
+          "name": "togreen",
+          "prefix": "redtogreen",
+          "frameRate": 24,
+          "flipX": false,
+          "flipY": false
+        },
+        {
+          "name": "tored",
+          "prefix": "greentored",
+          "frameRate": 24,
+          "flipX": false,
+          "flipY": false
+        }
+      ]
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 90,
+      "position": [-345, 30],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "phillyTraffic_lightmap",
+      "isPixel": false,
+      "flipX": true,
+      "assetPath": "Ozzo-Weekend/new/phillyTraffic_lightmap",
+      "scroll": [0.9, 1],
+      "alpha": 1,
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 78,
+      "position": [-345, 300],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "phillyCars2",
+      "isPixel": false,
+      "assetPath": "Ozzo-Weekend/new/phillyCars",
+      "scroll": [0.9, 1],
+      "alpha": 1,
+      "animations": [
+        {
+          "name": "car1",
+          "offsets": [0, 0],
+          "prefix": "car1",
+          "frameRate": 24,
+          "flipX": true,
+          "flipY": false
+        },
+        {
+          "name": "car2",
+          "prefix": "car2",
+          "frameRate": 24,
+          "flipX": true,
+          "flipY": false,
+          "offsets": [0, 0]
+        },
+        {
+          "name": "car3",
+          "offsets": [0, 0],
+          "prefix": "car3",
+          "frameRate": 24,
+          "flipX": true,
+          "flipY": false
+        }
+      ]
     }
   ],
-  "cameraZoom": 0.45,
+  "cameraZoom": 0.5,
   "version": "1.0.0",
   "characters": {
     "bf": {
