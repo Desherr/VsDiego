@@ -28,7 +28,7 @@
       "danceEvery": 0,
       "zIndex": 5,
       "position": [-1150, -550],
-      "scale": [1.00, 1.00],
+      "scale": [1.00, 0.6],
       "animType": "sparrow",
       "name": "SkyBox",
       "isPixel": false,
@@ -105,8 +105,54 @@
     },
     {
       "danceEvery": 0,
-      "zIndex": 78,
-      "position": [-345, 300],
+      "zIndex": 42,
+      "position": [-78, -78],
+      "scale": [1, 1],
+      "animType": "sparrow",
+      "name": "phillyCars",
+      "isPixel": false,
+      "assetPath": "Ozzo-Weekend/new/phillyCars",
+      "scroll": [0.9, 1],
+      "alpha": 1,
+      "animations": [
+        {
+          "name": "car1",
+          "offsets": [0, 0],
+          "prefix": "car1",
+          "frameRate": 24,
+          "flipX": true,
+          "flipY": false
+        },
+        {
+          "name": "car2",
+          "prefix": "car2",
+          "frameRate": 24,
+          "flipX": true,
+          "flipY": false,
+          "offsets": [0, 0]
+        },
+        {
+          "name": "car3",
+          "offsets": [0, 0],
+          "prefix": "car3",
+          "frameRate": 24,
+          "flipX": true,
+          "flipY": false
+        },
+        {
+          "name": "car4",
+          "offsets": [0, 0],
+          "prefix": "car4",
+          "frameRate": 24,
+          "flipX": true,
+          "flipY": false
+        }
+      ]
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 42,
+      "position": [-78, -78],
       "scale": [1, 1],
       "animType": "sparrow",
       "name": "phillyCars2",
@@ -138,27 +184,79 @@
           "frameRate": 24,
           "flipX": true,
           "flipY": false
+        },
+        {
+          "name": "car4",
+          "offsets": [0, 0],
+          "prefix": "car4",
+          "frameRate": 24,
+          "flipX": true,
+          "flipY": false
+        }
+      ]
+    },
+    {
+      "danceEvery": 2,
+      "zIndex": 45,
+      "position": [500, -450],
+      "scale": [0.9, 0.9],
+      "animType": "sparrow",
+      "name": "Monster",
+      "isPixel": false,
+      "assetPath": "Ozzo-Weekend/new/monster/monster",
+      "scroll": [1, 1],
+      "alpha": 1,
+      "animations": [
+        {
+          "name": "idle",
+          "prefix": "monster",
+          "frameRate": 12,
+          "looped": true,
+          "flipX": false,
+          "flipY": false
+        }
+      ]
+    },
+    {
+      "danceEvery": 2,
+      "zIndex": 51,
+      "position": [500, -220],
+      "scale": [0.9, 0.9],
+      "animType": "sparrow",
+      "name": "MonsterHands",
+      "isPixel": false,
+      "assetPath": "Ozzo-Weekend/new/monster/hands",
+      "scroll": [1, 1],
+      "alpha": 1,
+      "animations": [
+        {
+          "name": "idle",
+          "prefix": "hand",
+          "frameRate": 12,
+          "looped": true,
+          "flipX": false,
+          "flipY": false
         }
       ]
     }
   ],
-  "cameraZoom": 0.5,
+  "cameraZoom": 0.50,
   "version": "1.0.0",
   "characters": {
     "bf": {
       "zIndex": 400,
-      "position": [1012, 929],
+      "position": [1100, 810],
       "cameraOffsets": [-100, -100]
     },
     "gf": {
       "zIndex": 300,
-      "position": [452, 639],
+      "position": [550, 635],
       "cameraOffsets": [-25, 42],
       "scale": 0.90
     },
     "dad": {
       "zIndex": 350,
-      "position": [3, 947],
+      "position": [50, 900],
       "cameraOffsets": [67, -58]
     }
   },
