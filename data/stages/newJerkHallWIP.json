@@ -8,7 +8,7 @@
       "animType": "sparrow",
       "name": "HallPlace",
       "isPixel": false,
-      "assetPath": "new hall/HALL",
+      "assetPath": "new hall/sket/HALL",
       "scroll": [1.00, 1.00],
       "animations": []
     }
