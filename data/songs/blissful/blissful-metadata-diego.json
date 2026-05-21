@@ -16,7 +16,7 @@
       "instrumental": "diego","playerVocals": ["diego"],"opponentVocals": ["qt"], "altInstrumentals": ["pico",""]
     },
     "stage": "QTMall",
-    "noteStyle": "funkin",
+    "noteStyle": "frutiger",
     "ratings": { "easy": 4, "normal": 6, "hard": 7},
     "album": "volume1diego",
     "stickerPack": "QT-diego"

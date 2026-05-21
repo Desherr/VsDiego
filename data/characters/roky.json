@@ -27,7 +27,7 @@
        {
       "name": "EpicDance",
       "prefix": "rokyEPICDANCE",
-      "looped": false,
+      "looped": true,
       "offsets": [0, -9]
     },
     {
@@ -58,17 +58,17 @@
     },
     {
       "name": "cheer",
-      "prefix": "rokyIdle",
+      "prefix": "rokyCheer",
       "offsets": [0, -9]
     },
     {
       "name": "combo50",
-      "prefix": "rokyIdle",
+      "prefix": "rokyCheer",
       "offsets": [1, -11]
     },
     {
       "name": "drop70",
-      "prefix": "rokyIdle",
+      "prefix": "rokySad",
       "frameIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "offsets": [1, -11]
     },
@@ -81,6 +81,11 @@
       "name": "rokyIdle",
       "prefix": "Hair landing",
       "frameIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+      "name": "rokyTIntro",
+      "prefix": "rokyIntroTUTORIALdraft",
+      "offsets": [1, -11]
     },
     {
       "name": "rokyIdle",

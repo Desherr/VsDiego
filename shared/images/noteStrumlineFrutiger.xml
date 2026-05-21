@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noteStrumlineFrutiger.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrow staticDown0000" x="0" y="0" width="143" height="155"/>
+	<SubTexture name="arrow staticLeft0000" x="143" y="0" width="154" height="143"/>
+	<SubTexture name="arrow staticRight0000" x="297" y="0" width="154" height="143"/>
+	<SubTexture name="arrow staticUp0000" x="451" y="0" width="143" height="155"/>
+	<SubTexture name="confirmDown 0000" x="594" y="0" width="219" height="231"/>
+	<SubTexture name="confirmDown 0001" x="813" y="0" width="219" height="231"/>
+	<SubTexture name="confirmDown 0002" x="1032" y="0" width="219" height="231"/>
+	<SubTexture name="confirmDown 0003" x="1032" y="0" width="219" height="231"/>
+	<SubTexture name="confirmDown 0004" x="1251" y="0" width="219" height="231"/>
+	<SubTexture name="confirmDown 0005" x="1470" y="0" width="219" height="231"/>
+	<SubTexture name="confirmDown 0006" x="1689" y="0" width="219" height="231"/>
+	<SubTexture name="confirmDown 0007" x="1689" y="0" width="219" height="231"/>
+	<SubTexture name="confirmLeft0000" x="0" y="231" width="233" height="222"/>
+	<SubTexture name="confirmLeft0001" x="233" y="231" width="233" height="222"/>
+	<SubTexture name="confirmLeft0002" x="466" y="231" width="233" height="222"/>
+	<SubTexture name="confirmLeft0003" x="466" y="231" width="233" height="222"/>
+	<SubTexture name="confirmLeft0004" x="699" y="231" width="233" height="222"/>
+	<SubTexture name="confirmLeft0005" x="932" y="231" width="233" height="222"/>
+	<SubTexture name="confirmLeft0006" x="1165" y="231" width="233" height="222"/>
+	<SubTexture name="confirmLeft0007" x="1165" y="231" width="233" height="222"/>
+	<SubTexture name="confirmRight0000" x="1398" y="231" width="233" height="221"/>
+	<SubTexture name="confirmRight0001" x="1631" y="231" width="233" height="221"/>
+	<SubTexture name="confirmRight0002" x="0" y="453" width="233" height="221"/>
+	<SubTexture name="confirmRight0003" x="0" y="453" width="233" height="221"/>
+	<SubTexture name="confirmRight0004" x="233" y="453" width="233" height="221"/>
+	<SubTexture name="confirmRight0005" x="466" y="453" width="233" height="221"/>
+	<SubTexture name="confirmRight0006" x="699" y="453" width="233" height="221"/>
+	<SubTexture name="confirmRight0007" x="699" y="453" width="233" height="221"/>
+	<SubTexture name="confirmUp0000" x="932" y="453" width="223" height="235"/>
+	<SubTexture name="confirmUp0001" x="1155" y="453" width="223" height="235"/>
+	<SubTexture name="confirmUp0002" x="1378" y="453" width="223" height="235"/>
+	<SubTexture name="confirmUp0003" x="1378" y="453" width="223" height="235"/>
+	<SubTexture name="confirmUp0004" x="1601" y="453" width="223" height="235"/>
+	<SubTexture name="confirmUp0005" x="1824" y="453" width="223" height="235"/>
+	<SubTexture name="confirmUp0006" x="0" y="688" width="223" height="235"/>
+	<SubTexture name="confirmUp0007" x="0" y="688" width="223" height="235"/>
+</TextureAtlas>
