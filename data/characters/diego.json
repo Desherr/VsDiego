@@ -1,12 +1,12 @@
 {
-	"renderType": "sparrow",
+	"renderType": "multianimateatlas",
 	"offsets": [
 		0,
 		0
 	],
 	"applyStageMatrix": false,
 	"startingAnimation": "idle",
-	"assetPath": "characters/PLACE",
+	"assetPath": "shared:characters/Diego",
 	"healthIcon": {
 		"offsets": [
 			0,
@@ -40,158 +40,148 @@
 	"animations": [
 		{
 			"offsets": [
-				-7,
+				0,
 				0
 			],
 			"frameIndices": [],
-			"prefix": "idle0",
+			"prefix": "idle",
 			"flipX": false,
 			"looped": false,
 			"name": "idle",
-			"animType": "framelabel",
 			"flipY": false,
 			"assetPath": null,
 			"frameRate": 24
 		},
 		{
 			"offsets": [
-				-102,
-				5
+				0,
+				0
 			],
 			"frameIndices": [],
-			"prefix": "singRIGHT0",
+			"prefix": "singRIGHT",
 			"flipX": false,
 			"looped": false,
 			"name": "singRIGHT",
-			"animType": "framelabel",
 			"flipY": false,
 			"assetPath": null,
 			"frameRate": 24
 		},
 		{
 			"offsets": [
-				-47,
-				-23
+				0,
+				0
 			],
 			"frameIndices": [],
-			"prefix": "singDOWN0",
+			"prefix": "singDOWN",
 			"flipX": false,
 			"looped": false,
 			"name": "singDOWN",
-			"animType": "framelabel",
 			"flipY": false,
 			"assetPath": null,
 			"frameRate": 24
 		},
 		{
 			"offsets": [
-				-57,
-				73
+				0,
+				0
 			],
 			"frameIndices": [],
-			"prefix": "singUP0",
+			"prefix": "singUP",
 			"flipX": false,
 			"looped": false,
 			"name": "singUP",
-			"animType": "framelabel",
 			"flipY": false,
 			"assetPath": null,
 			"frameRate": 24
 		},
 		{
 			"offsets": [
-				197,
-				-23
+				0,
+				0
 			],
 			"frameIndices": [],
-			"prefix": "singLEFT0",
+			"prefix": "singLEFT",
 			"flipX": false,
 			"looped": false,
 			"name": "singLEFT",
-			"animType": "framelabel",
 			"flipY": false,
 			"assetPath": null,
 			"frameRate": 24
 		},
 		{
 			"offsets": [
-				203,
-				-15
+				0,
+				0
 			],
 			"frameIndices": [],
 			"prefix": "singLEFTmiss",
 			"flipX": false,
 			"looped": false,
 			"name": "singRIGHmiss",
-			"animType": "framelabel",
 			"flipY": false,
 			"assetPath": null,
 			"frameRate": 24
 		},
 		{
 			"offsets": [
-				-42,
-				-3
+				0,
+				0
 			],
 			"frameIndices": [],
 			"prefix": "singDOWNmiss",
 			"flipX": false,
 			"looped": false,
 			"name": "singDOWNmiss",
-			"animType": "framelabel",
 			"flipY": false,
 			"assetPath": null,
 			"frameRate": 24
 		},
 		{
 			"offsets": [
-				-37,
-				73
+				0,
+				0
 			],
 			"frameIndices": [],
 			"prefix": "singUPmiss",
 			"flipX": false,
 			"looped": false,
 			"name": "singUPmiss",
-			"animType": "framelabel",
 			"flipY": false,
 			"assetPath": null,
 			"frameRate": 24
 		},
 		{
 			"offsets": [
-				-113,
-				2
+				0,
+				0
 			],
 			"frameIndices": [],
-			"prefix": "singRIGHTmiss0",
+			"prefix": "singRIGHTmiss",
 			"flipX": false,
 			"looped": false,
 			"name": "singLEFTmiss",
-			"animType": "framelabel",
 			"flipY": false,
 			"assetPath": null,
 			"frameRate": 24
 		},
 		{
 			"offsets": [
-				-72,
-				-5
+				0,
+				0
 			],
 			"frameIndices": [],
 			"prefix": "Yeah0",
 			"flipX": false,
 			"looped": false,
 			"name": "Yeah",
-			"animType": "framelabel",
 			"flipY": false,
 			"assetPath": null,
 			"frameRate": 24
 		},
 		{
 			"offsets": [
-				39,
-				4
+				0,
+				0
 			],
 			"frameIndices": [],
 			"prefix": "Diego Dies",
@@ -205,8 +195,8 @@
 		},
 		{
 			"offsets": [
-				-3,
-				4
+				0,
+				0
 			],
 			"frameIndices": [],
 			"prefix": "Diego Dead loop",
@@ -220,8 +210,8 @@
 		},
 		{
 			"offsets": [
-				-3,
-				66
+				0,
+				0
 			],
 			"frameIndices": [],
 			"prefix": "Diego Dead confirm",
