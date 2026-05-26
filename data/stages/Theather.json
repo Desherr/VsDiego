@@ -150,8 +150,8 @@
     },
     "gf": {
       "zIndex": 100,
-      "cameraOffsets": [-15, -146],
-      "position": [576.5, 811]
+      "cameraOffsets": [-15, -246],
+      "position": [776.5, 811]
     }
   },
   "name": "Theather [WIP]",
