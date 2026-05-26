@@ -61,7 +61,7 @@
 			"prefix": "singRIGHT",
 			"flipX": false,
 			"looped": false,
-			"name": "singRIGHT",
+			"name": "singLEFT",
 			"flipY": false,
 			"assetPath": null,
 			"frameRate": 24
@@ -103,7 +103,7 @@
 			"prefix": "singLEFT",
 			"flipX": false,
 			"looped": false,
-			"name": "singLEFT",
+			"name": "singRIGHT",
 			"flipY": false,
 			"assetPath": null,
 			"frameRate": 24

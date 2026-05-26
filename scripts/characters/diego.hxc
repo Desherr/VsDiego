@@ -1,4 +1,4 @@
-import funkin.play.character.MultiAnimateCharacter;
+import funkin.play.character.MultiAnimateAtlasCharacter;
 import funkin.play.PlayState;
 import funkin.play.PauseSubState;
 import funkin.play.character.CharacterType;
@@ -7,7 +7,7 @@ import flixel.FlxSprite;
 import flixel.tweens.FlxTween;
 import funkin.audio.FunkinSound;
 
-class DiegoCharacter extends MultiAnimateCharacter
+class DiegoCharacter extends MultiAnimateAtlasCharacter
 {
 	function new()
 	{
