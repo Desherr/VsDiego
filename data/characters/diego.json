@@ -117,7 +117,7 @@
 			"prefix": "singLEFTmiss",
 			"flipX": false,
 			"looped": false,
-			"name": "singRIGHmiss",
+			"name": "singRIGHTmiss",
 			"flipY": false,
 			"assetPath": null,
 			"frameRate": 24
