@@ -19,19 +19,19 @@
       "scale": 0.7,
       "offsets": [30, 0],
       "data": {
-        "leftStatic": { "prefix": "staticLeft0" },
+        "leftStatic": { "prefix": "arrow staticLeft0" },
         "leftPress": { "prefix": "pressLeft0" },
         "leftConfirm": { "prefix": "confirmLeft" },
         "leftConfirmHold": { "prefix": "confirmLeft" },
-        "downStatic": { "prefix": "staticDown0" },
+        "downStatic": { "prefix": "arrow staticDown0" },
         "downPress": { "prefix": "pressDown0" },
         "downConfirm": { "prefix": "confirmDown" },
         "downConfirmHold": { "prefix": "confirmDown" },
-        "upStatic": { "prefix": "staticUp0" },
+        "upStatic": { "prefix": "arrow staticUp0" },
         "upPress": { "prefix": "pressUp0" },
         "upConfirm": { "prefix": "confirmUp" },
         "upConfirmHold": { "prefix": "confirmUp" },
-        "rightStatic": { "prefix": "staticRight" },
+        "rightStatic": { "prefix": "arrow staticRight0" },
         "rightPress": { "prefix": "pressRight0" },
         "rightConfirm": { "prefix": "confirmRight" },
         "rightConfirmHold": { "prefix": "confirmRight" }
@@ -68,29 +68,29 @@
     },
     "holdNoteCover": {
       "assetPath": "",
-      "offsets": [0, 0],
+      "offsets": [90, 60],
       "data": {
         "enabled": true,
         "left": {
-          "assetPath": "shared:holdCoverPurple",
+          "assetPath": "shared:holdCoverPurpleFrutiger",
           "start": { "prefix": "holdCoverStartPurple" },
           "hold": { "prefix": "holdCoverPurple" },
-          "end": { "prefix": "holdCoverEndPurple" }
+          "end": { "prefix": "holdCoverEndPurple"}
         },
         "right": {
-          "assetPath": "shared:holdCoverRed",
+          "assetPath": "shared:holdCoverRedFrutiger",
           "start": { "prefix": "holdCoverStartRed" },
           "hold": { "prefix": "holdCoverRed" },
           "end": { "prefix": "holdCoverEndRed" }
         },
         "up": {
-          "assetPath": "shared:holdCoverGreen",
+          "assetPath": "shared:holdCoverGreenFrutiger",
           "start": { "prefix": "holdCoverStartGreen" },
           "hold": { "prefix": "holdCoverGreen" },
           "end": { "prefix": "holdCoverEndGreen" }
         },
         "down": {
-          "assetPath": "shared:holdCoverBlue",
+          "assetPath": "shared:holdCoverBlueFrutiger",
           "start": { "prefix": "holdCoverStartBlue" },
           "hold": { "prefix": "holdCoverBlue" },
           "end": { "prefix": "holdCoverEndBlue" }
