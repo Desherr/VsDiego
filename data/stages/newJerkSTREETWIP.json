@@ -1,0 +1,38 @@
+{
+  "props": [
+    {
+      "danceEvery": 0,
+      "zIndex": 1,
+      "position": [-1343, -943],
+      "scale": [3.35, 3.35],
+      "animType": "sparrow",
+      "name": "fONDO",
+      "isPixel": false,
+      "assetPath": "new hallERECT/nuevo/bgboceto",
+      "scroll": [1.00, 1.00],
+      "animations": []
+    }
+  ],
+  "cameraZoom": 0.40,
+  "version": "1.0.0",
+  "characters": {
+    "bf": {
+      "zIndex": 300,
+      "position": [1326, 668],
+      "cameraOffsets": [-196, -219]
+    },
+    "dad": {
+      "zIndex": 200,
+      "position": [234, 687],
+      "cameraOffsets": [150, -100]
+    },
+    "gf": {
+      "zIndex": 100,
+      "cameraOffsets": [5, -305],
+      "position": [775.5, 488],
+      "scale": 0.90
+    }
+  },
+  "name": "newJerkSTREETWIP [WIP]",
+  "directory": "newSTREETERECT"
+}
