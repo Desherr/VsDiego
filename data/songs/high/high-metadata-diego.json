@@ -1,7 +1,7 @@
 {
   "version": "2.2.4",
   "songName": "High (Diego Mix)",
-  "artist": "KYROMA",
+  "artist": "KYROMA (ft. CyanSeleste, DETOUR)",
   "charter": "DiegozZ",
   "divisions": 96,
   "looped": false,
@@ -35,9 +35,9 @@
     "noteStyle": "frutiger",
     "album": "volume1diego",
     "ratings": {
-      "easy": 4,
-      "hard": 8,
-      "normal": 6
+      "easy": 5,
+      "hard": 9,
+      "normal": 7
     },
     "previewStart": 0,
     "previewEnd": 0

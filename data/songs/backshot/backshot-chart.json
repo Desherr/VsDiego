@@ -10,1226 +10,1494 @@
    "t": 0,
    "e": "FocusCamera",
    "v": {
-	"duration": 4,
-	"x": 0,
-	"y": 0,
-	"ease": "INSTANT",
-	"char": 0,
-	"easeDir": "In"
-}
+    "char": 0,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
    "t": 0,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "INSTANT",
-	"easeDir": "In",
-	"zoom": 1.1,
-	"mode": "direct"
-}
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "mode": "direct",
+    "zoom": 0.9
+   },
+   "_layer": "ZoomCamera 1"
   },
   {
    "t": 1909.09090909091,
    "e": "FocusCamera",
    "v": {
-	"duration": 4,
-	"x": 0,
-	"y": 0,
-	"ease": "INSTANT",
-	"char": 1,
-	"easeDir": "In"
-}
+    "char": 1,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
    "t": 2181.81818181818,
    "e": "FocusCamera",
    "v": {
-	"duration": 4,
-	"x": 0,
-	"y": 0,
-	"ease": "INSTANT",
-	"char": 2,
-	"easeDir": "In"
-}
+    "char": 2,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 70,
+    "y": 0
+   },
+   "_layer": "FocusCamera 2"
   },
   {
    "t": 2181.81818181818,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "INSTANT",
-	"easeDir": "In",
-	"zoom": 1.15,
-	"mode": "direct"
-}
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "mode": "direct",
+    "zoom": 1
+   },
+   "_layer": "ZoomCamera 1"
   },
   {
    "t": 4090.90909090909,
    "e": "FocusCamera",
    "v": {
-	"duration": 4,
-	"x": 0,
-	"y": 0,
-	"ease": "INSTANT",
-	"char": 1,
-	"easeDir": "In"
-}
+    "char": 1,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
    "t": 4363.63636363636,
    "e": "FocusCamera",
    "v": {
-	"duration": 4,
-	"x": 0,
-	"y": 0,
-	"ease": "INSTANT",
-	"char": 0,
-	"easeDir": "In"
-}
+    "char": 0,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 2"
   },
   {
    "t": 4363.63636363636,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "INSTANT",
-	"easeDir": "In",
-	"zoom": 1.25,
-	"mode": "direct"
-}
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "mode": "direct",
+    "zoom": 1.15
+   },
+   "_layer": "ZoomCamera 1"
   },
   {
    "t": 6272.72727272727,
    "e": "FocusCamera",
    "v": {
-	"duration": 4,
-	"x": 0,
-	"y": 0,
-	"ease": "INSTANT",
-	"char": 2,
-	"easeDir": "In"
-}
+    "char": 2,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 70,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
    "t": 6545.45454545454,
    "e": "FocusCamera",
    "v": {
-	"duration": 4,
-	"x": 0,
-	"y": 0,
-	"ease": "INSTANT",
-	"char": 0,
-	"easeDir": "In"
-}
+    "char": 0,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 2"
   },
   {
    "t": 6545.45454545454,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "INSTANT",
-	"easeDir": "In",
-	"zoom": 1.4,
-	"mode": "direct"
-}
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "mode": "direct",
+    "zoom": 1.2
+   },
+   "_layer": "ZoomCamera 1"
   },
   {
    "t": 6545.45454545454,
    "e": "ZoomCamera",
    "v": {
-	"duration": 14.5,
-	"ease": "quart",
-	"easeDir": "Out",
-	"zoom": 0.85,
-	"mode": "direct"
-}
+    "duration": 14.5,
+    "ease": "quart",
+    "easeDir": "Out",
+    "mode": "direct",
+    "zoom": 0.65
+   },
+   "_layer": "ZoomCamera 2"
   },
   {
    "t": 6818.18181818182,
    "e": "FocusCamera",
    "v": {
-	"duration": 4,
-	"x": 0,
-	"y": 0,
-	"ease": "INSTANT",
-	"char": 1,
-	"easeDir": "In"
-}
+    "char": 1,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
    "t": 7090.90909090909,
    "e": "FocusCamera",
    "v": {
-	"duration": 4,
-	"x": 0,
-	"y": 0,
-	"ease": "INSTANT",
-	"char": 0,
-	"easeDir": "In"
-}
+    "char": 0,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 2"
   },
   {
    "t": 7363.63636363636,
    "e": "FocusCamera",
    "v": {
-	"duration": 4,
-	"x": 0,
-	"y": 0,
-	"ease": "INSTANT",
-	"char": 2,
-	"easeDir": "In"
-}
+    "char": 2,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 70,
+    "y": 0
+   },
+   "_layer": "FocusCamera 3"
   },
   {
    "t": 7636.45454545454,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 1,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
+    "char": 1,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
    "t": 7909.18181818182,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 0,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
+    "char": 0,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 2"
   },
   {
    "t": 8181.90909090909,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 1,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
+    "char": 1,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
    "t": 8454.63636363636,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 2,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
+    "char": 2,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 70,
+    "y": 0
+   },
+   "_layer": "FocusCamera 3"
   },
   {
    "t": 8659.09090909091,
    "e": "FocusCamera",
    "v": {
-	"ease": "quint",
-	"char": 1,
-	"easeDir": "Out"
-}
+    "char": 1,
+    "duration": 0.5,
+    "ease": "quint",
+    "easeDir": "Out",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 2"
   },
   {
-   "t": 9000,
+   "t": 8863.63636363636,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "quad",
-	"easeDir": "Out",
-	"zoom": 1.05,
-	"mode": "direct"
-}
+    "duration": 4,
+    "ease": "cube",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 1
+   }
   },
   {
    "t": 10636.3636363636,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "quad",
-	"easeDir": "Out",
-	"zoom": 1.15,
-	"mode": "direct"
-}
+    "duration": 4,
+    "ease": "cube",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.9
+   }
   },
   {
-   "t": 12818.1818181818,
+   "t": 12545.4545454545,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "quart",
-	"zoom": 0.9,
-	"mode": "direct",
-	"easeDir": "Out"
-}
-  },
-  {
-   "t": 13363.6363636364,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"ease": "quart",
-	"mode": "direct",
-	"easeDir": "Out",
-	"zoom": 1.05
-}
+    "duration": 4,
+    "ease": "cube",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 1
+   }
   },
   {
    "t": 13363.6363636364,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 0,
-	"ease": "expo",
-	"easeDir": "Out"
-}
+    "char": 0,
+    "duration": 4,
+    "ease": "expo",
+    "easeDir": "Out",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
    "t": 15000,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "quint",
-	"mode": "direct",
-	"easeDir": "Out",
-	"zoom": 1.15
-}
+    "duration": 4,
+    "ease": "quart",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.85
+   }
+  },
+  {
+   "t": 17318.1818181818,
+   "e": "FocusCamera",
+   "v": {
+    "char": 2,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 70,
+    "y": 153
+   },
+   "_layer": "FocusCamera 2"
   },
   {
    "t": 17454.5454545455,
-   "e": "FocusCamera",
+   "e": "ZoomCamera",
    "v": {
-	"x": 0,
-	"duration": 8,
-	"y": 0,
-	"char": 1,
-	"ease": "expo",
-	"easeDir": "Out"
-}
+    "duration": 12,
+    "ease": "cube",
+    "easeDir": "In",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.95
+   }
   },
   {
    "t": 17454.5454545455,
    "e": "PlayAnimation",
    "v": {
-	"target": "boyfriend",
-	"force": true,
-	"anim": "hey"
-}
-  },
-  {
-   "t": 17454.5454545455,
-   "e": "FocusCamera",
-   "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 153,
-	"char": 2,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
-  },
-  {
-   "t": 17454.5454545455,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 14.5,
-	"ease": "INSTANT",
-	"easeDir": "Out",
-	"zoom": 0.65,
-	"mode": "direct"
-}
+    "anim": "hey",
+    "force": true,
+    "target": "boyfriend"
+   }
   },
   {
    "t": 17454.5454545455,
    "e": "PlayAnimation",
    "v": {
-	"target": "dad",
-	"anim": "Yeah",
-	"force": false
-}
+    "anim": "Yeah",
+    "force": false,
+    "target": "dad"
+   }
   },
   {
-   "t": 19500,
-   "e": "ZoomCamera",
+   "t": 17454.5454545455,
+   "e": "FocusCamera",
    "v": {
-	"duration": 4,
-	"ease": "circ",
-	"easeDir": "Out",
-	"zoom": 1.1,
-	"mode": "direct"
-}
+    "char": 1,
+    "duration": 21,
+    "ease": "cube",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
-   "t": 21818.1818181818,
+   "t": 20730.4063535482,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "circ",
-	"easeDir": "Out",
-	"zoom": 1.2,
-	"mode": "direct"
-}
+    "duration": 4,
+    "ease": "quint",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.8
+   }
   },
   {
    "t": 21954.5454545455,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 0,
-	"ease": "cube",
-	"easeDir": "Out"
-}
+    "char": 0,
+    "duration": 4,
+    "ease": "cube",
+    "easeDir": "Out",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
+  },
+  {
+   "t": 22363.6363636364,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 4,
+    "ease": "quint",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.9
+   }
+  },
+  {
+   "t": 23598,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 4,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.7
+   }
   },
   {
    "t": 23727.2727272727,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 1,
-	"ease": "INSTANT",
-	"easeDir": "Out"
-}
+    "char": 1,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "Out",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
    "t": 23931.8181818182,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 0,
-	"ease": "quad",
-	"easeDir": "Out"
-}
+    "char": 0,
+    "duration": 4,
+    "ease": "quad",
+    "easeDir": "Out",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 2"
   },
   {
-   "t": 23931.8181818182,
+   "t": 24523.0838645528,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "cube",
-	"zoom": 1,
-	"mode": "direct",
-	"easeDir": "Out"
-}
-  },
-  {
-   "t": 26181.8181818182,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"ease": "expo",
-	"zoom": 1.15,
-	"mode": "direct",
-	"easeDir": "Out"
-}
+    "duration": 12,
+    "ease": "quart",
+    "easeDir": "In",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 1.15
+   }
   },
   {
    "t": 26181.8181818182,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 1,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
+    "char": 1,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
    "t": 27272.7272727273,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "quart",
-	"zoom": 1.1,
-	"mode": "direct",
-	"easeDir": "Out"
-}
+    "duration": 1,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.9
+   }
   },
   {
-   "t": 27545.4545454545,
+   "t": 27792.0963503644,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "quart",
-	"zoom": 1.05,
-	"mode": "direct",
-	"easeDir": "Out"
-}
-  },
-  {
-   "t": 27681.8181818182,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"ease": "quart",
-	"mode": "direct",
-	"easeDir": "Out",
-	"zoom": 1
-}
+    "duration": 1,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.8
+   }
   },
   {
    "t": 28363.6363636364,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "quart",
-	"mode": "direct",
-	"easeDir": "Out",
-	"zoom": 1.2
-}
+    "duration": 4,
+    "ease": "quint",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.9
+   }
   },
   {
-   "t": 30272.7272727273,
+   "t": 30409.0909090909,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "quart",
-	"mode": "direct",
-	"easeDir": "Out",
-	"zoom": 1.25
-}
+    "duration": 4,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.65
+   }
   },
   {
    "t": 30818.1818181818,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 0,
-	"ease": "sine",
-	"easeDir": "Out"
-}
+    "char": 0,
+    "duration": 4,
+    "ease": "sine",
+    "easeDir": "Out",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
+  },
+  {
+   "t": 31636.3636363636,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 4,
+    "ease": "quart",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.8
+   }
   },
   {
    "t": 32454.5454545454,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "quad",
-	"easeDir": "Out",
-	"zoom": 1.35,
-	"mode": "direct"
-}
+    "duration": 4,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.85
+   }
   },
   {
-   "t": 33818.1818181818,
+   "t": 34363.6363636364,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "quad",
-	"easeDir": "Out",
-	"zoom": 1.25,
-	"mode": "direct"
-}
-  },
-  {
-   "t": 34227.2727272727,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"ease": "quad",
-	"easeDir": "Out",
-	"zoom": 1.15,
-	"mode": "direct"
-}
-  },
-  {
-   "t": 34772.7272727273,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"ease": "smootherStep",
-	"easeDir": "Out",
-	"zoom": 0.6573,
-	"mode": "direct"
-}
+    "duration": 2,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.75
+   }
   },
   {
    "t": 34909.0909090909,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 1,
-	"ease": "smootherStep",
-	"easeDir": "InOut"
-}
+    "char": 1,
+    "duration": 4,
+    "ease": "smootherStep",
+    "easeDir": "InOut",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
+  },
+  {
+   "t": 34909.0909090909,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 12,
+    "ease": "expo",
+    "easeDir": "In",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.65
+   }
+  },
+  {
+   "t": 37093.8233497487,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 16,
+    "ease": "expo",
+    "easeDir": "In",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 1.05
+   }
   },
   {
    "t": 39545.4545454545,
    "e": "FocusCamera",
    "v": {
-	"char": 0,
-	"y": 0
-}
+    "char": 0,
+    "duration": 4,
+    "ease": "CLASSIC",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
+  },
+  {
+   "t": 41411.2312539898,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 13,
+    "ease": "expo",
+    "easeDir": "In",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.55
+   }
   },
   {
    "t": 41454.5454545454,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 14.5,
-	"y": 123,
-	"char": 2,
-	"ease": "sine",
-	"easeDir": "In"
-}
+    "char": 2,
+    "duration": 14.5,
+    "ease": "sine",
+    "easeDir": "In",
+    "x": 70,
+    "y": 123
+   },
+   "_layer": "FocusCamera 1"
   },
   {
-   "t": 43636.3818090909,
+   "t": 43636.3636363636,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "smootherStep",
-	"easeDir": "Out",
-	"zoom": 1.1,
-	"mode": "direct"
-}
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.6
+   }
   },
   {
-   "t": 48000.0181727273,
+   "t": 44744.4407044236,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "smootherStep",
-	"easeDir": "Out",
-	"zoom": 1.2,
-	"mode": "direct"
-}
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.65
+   }
+  },
+  {
+   "t": 45801.0912048879,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.7
+   }
+  },
+  {
+   "t": 46909.0909090909,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.75
+   }
+  },
+  {
+   "t": 47454.5454545454,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 6,
+    "ease": "cube",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.8
+   }
   },
   {
    "t": 48000.0181727273,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 2,
-	"y": 0,
-	"char": 0,
-	"ease": "expo",
-	"easeDir": "Out"
-}
+    "char": 0,
+    "duration": 2,
+    "ease": "expo",
+    "easeDir": "Out",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
+  },
+  {
+   "t": 49082,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 4,
+    "ease": "quad",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.7
+   }
+  },
+  {
+   "t": 50181.8181818182,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 4,
+    "ease": "quad",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.85
+   }
+  },
+  {
+   "t": 51272.7272727273,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 4,
+    "ease": "quad",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.9
+   }
   },
   {
    "t": 52363.6545363636,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 2,
-	"y": 0,
-	"char": 1,
-	"ease": "circ",
-	"easeDir": "Out"
-}
+    "char": 1,
+    "duration": 2,
+    "ease": "circ",
+    "easeDir": "Out",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
+  },
+  {
+   "t": 52363.8814226157,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 4,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.75
+   }
+  },
+  {
+   "t": 53472.8371330342,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 4,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.85
+   }
+  },
+  {
+   "t": 55643.9237082071,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 4,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.75
+   }
+  },
+  {
+   "t": 56454.5454545454,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 7,
+    "ease": "quint",
+    "easeDir": "In",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.65
+   }
   },
   {
    "t": 56727.3091909091,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 153,
-	"char": 2,
-	"ease": "sine",
-	"easeDir": "InOut"
-}
+    "char": 2,
+    "duration": 4,
+    "ease": "sine",
+    "easeDir": "InOut",
+    "x": 70,
+    "y": 153
+   },
+   "_layer": "FocusCamera 1"
   },
   {
-   "t": 56727.3091909091,
+   "t": 57818.1818181818,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "smootherStep",
-	"easeDir": "Out",
-	"zoom": 0.8,
-	"mode": "direct"
-}
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.6
+   }
   },
   {
-   "t": 61090,
+   "t": 58363.6363636364,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "INSTANT",
-	"zoom": 1,
-	"mode": "direct",
-	"easeDir": "In"
-}
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.65
+   }
+  },
+  {
+   "t": 60000,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.7
+   }
+  },
+  {
+   "t": 60545.4545454545,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.75
+   }
+  },
+  {
+   "t": 61090.9090909091,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.8
+   }
   },
   {
    "t": 61090.9455545454,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 0,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
+    "char": 0,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
    "t": 62999.0909090909,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 1,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
+    "char": 1,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
-   "t": 63271.8181818182,
+   "t": 63000,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "INSTANT",
-	"zoom": 0.75,
-	"mode": "direct",
-	"easeDir": "In"
-}
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.7
+   }
+  },
+  {
+   "t": 63272.7272727273,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.85
+   },
+   "_layer": "ZoomCamera 1"
   },
   {
    "t": 63272.7637363636,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 2,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
+    "char": 2,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 70,
+    "y": 0
+   },
+   "_layer": "FocusCamera 2"
   },
   {
    "t": 65454.5819181818,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 44.5,
-	"y": 0,
-	"char": 0,
-	"ease": "sine",
-	"easeDir": "Out"
-}
+    "char": 0,
+    "duration": 44.5,
+    "ease": "sine",
+    "easeDir": "Out",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
-   "t": 74181.8363636364,
+   "t": 73090.9090909091,
    "e": "ZoomCamera",
    "v": {
-	"duration": 100,
-	"ease": "smootherStep",
-	"zoom": 1.7,
-	"mode": "direct",
-	"easeDir": "InOut"
-}
+    "duration": 4,
+    "ease": "cube",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.9
+   }
   },
   {
-   "t": 78545.4603818182,
+   "t": 73636.3636363636,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "linear",
-	"zoom": 1.1,
-	"mode": "direct",
-	"easeDir": "In"
-}
+    "duration": 4,
+    "ease": "cube",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.75
+   }
+  },
+  {
+   "t": 74181.8181818182,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 48,
+    "ease": "smoothStep",
+    "easeDir": "In",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 1.6
+   }
+  },
+  {
+   "t": 80727.2727272727,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 15,
+    "ease": "quint",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.95
+   }
   },
   {
    "t": 80727.2785636364,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 15,
-	"y": 0,
-	"char": 1,
-	"ease": "smoothStep",
-	"easeDir": "InOut"
-}
+    "char": 1,
+    "duration": 15,
+    "ease": "smoothStep",
+    "easeDir": "InOut",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
-   "t": 82909.0967454545,
+   "t": 82909.0909090909,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "expo",
-	"easeDir": "Out",
-	"zoom": 1.1,
-	"mode": "direct"
-}
+    "duration": 2,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.9
+   }
   },
   {
    "t": 82909.0967454545,
    "e": "FocusCamera",
    "v": {
-	"duration": 4,
-	"x": 0,
-	"y": 153,
-	"ease": "expo",
-	"char": 2,
-	"easeDir": "Out"
-}
+    "char": 2,
+    "duration": 4,
+    "ease": "expo",
+    "easeDir": "Out",
+    "x": 70,
+    "y": 153
+   },
+   "_layer": "FocusCamera 1"
   },
   {
-   "t": 83318.1876545454,
+   "t": 83454.5454545454,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "quad",
-	"zoom": 1,
-	"mode": "direct",
-	"easeDir": "Out"
-}
+    "duration": 2,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.8
+   }
   },
   {
-   "t": 83727.2785636364,
+   "t": 83863.6363636364,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "quad",
-	"mode": "direct",
-	"easeDir": "Out",
-	"zoom": 0.7
-}
+    "duration": 2,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.7
+   }
   },
   {
    "t": 84818.0909090909,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 1,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
+    "char": 1,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
    "t": 85090.8181818182,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 2,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
-  },
-  {
-   "t": 85090.8181818182,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"ease": "INSTANT",
-	"mode": "direct",
-	"easeDir": "In",
-	"zoom": 1.15
-}
+    "char": 2,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 70,
+    "y": 0
+   },
+   "_layer": "FocusCamera 2"
   },
   {
    "t": 86999.9090909091,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 1,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
+    "char": 1,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
    "t": 87272.6363636364,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 0,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
-  },
-  {
-   "t": 87272.6363636364,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"ease": "INSTANT",
-	"mode": "direct",
-	"easeDir": "In",
-	"zoom": 1.25
-}
+    "char": 0,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 2"
   },
   {
    "t": 89181.7272727273,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 2,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
-  },
-  {
-   "t": 89454.4545454545,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"ease": "INSTANT",
-	"mode": "direct",
-	"easeDir": "In",
-	"zoom": 1.4
-}
-  },
-  {
-   "t": 89454.4545454545,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 14.5,
-	"ease": "quart",
-	"mode": "direct",
-	"easeDir": "Out",
-	"zoom": 0.85
-}
+    "char": 2,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 70,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
    "t": 89454.5512909091,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 0,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
+    "char": 0,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 2"
   },
   {
    "t": 90545.4603818182,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 1,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
-  },
-  {
-   "t": 91090.9149272727,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"ease": "INSTANT",
-	"mode": "direct",
-	"easeDir": "In",
-	"zoom": 1.2
-}
+    "char": 1,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
    "t": 91090.9149272727,
    "e": "PlayAnimation",
    "v": {
-	"target": "boyfriend",
-	"anim": "cheer",
-	"force": true
-}
+    "anim": "cheer",
+    "force": true,
+    "target": "boyfriend"
+   }
   },
   {
    "t": 91090.9149272727,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 0,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
+    "char": 0,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 2"
+  },
+  {
+   "t": 91909.0909090909,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 4,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.8
+   }
   },
   {
    "t": 91909.0967454545,
    "e": "FocusCamera",
    "v": {
-	"char": 1
-}
+    "char": 1,
+    "duration": 4,
+    "ease": "CLASSIC",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
-   "t": 91910,
+   "t": 93818.1818181818,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "quad",
-	"mode": "direct",
-	"easeDir": "Out",
-	"zoom": 1.05
-}
+    "duration": 4,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.7
+   }
   },
   {
-   "t": 93546.3636363636,
+   "t": 96272.7272727273,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "quad",
-	"mode": "direct",
-	"easeDir": "Out",
-	"zoom": 1.15
-}
-  },
-  {
-   "t": 93818.1876545454,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"ease": "quad",
-	"easeDir": "Out",
-	"zoom": 1.2,
-	"mode": "direct"
-}
-  },
-  {
-   "t": 96000.0058363636,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"ease": "quart",
-	"easeDir": "Out",
-	"zoom": 0.9,
-	"mode": "direct"
-}
+    "duration": 4,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 1.35
+   }
   },
   {
    "t": 96272.7331090909,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 0,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
+    "char": 0,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
    "t": 96272.9090909091,
    "e": "PlayAnimation",
    "v": {
-	"anim": "hey",
-	"force": true,
-	"target": "boyfriend"
-}
+    "anim": "hey",
+    "force": true,
+    "target": "boyfriend"
+   }
+  },
+  {
+   "t": 97909.0909090909,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 18,
+    "ease": "expo",
+    "easeDir": "In",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.75
+   }
   },
   {
    "t": 97909.1092363636,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 17,
-	"y": 153,
-	"char": 2,
-	"ease": "quad",
-	"easeDir": "InOut"
-}
+    "char": 2,
+    "duration": 17,
+    "ease": "quad",
+    "easeDir": "InOut",
+    "x": 70,
+    "y": 153
+   },
+   "_layer": "FocusCamera 1"
   },
   {
-   "t": 100363.654690909,
+   "t": 100363.636363636,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "expo",
-	"zoom": 0.8,
-	"mode": "direct",
-	"easeDir": "Out"
-}
+    "duration": 2,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.9
+   }
   },
   {
-   "t": 100772.7456,
+   "t": 100909.090909091,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "expo",
-	"zoom": 0.75,
-	"mode": "direct",
-	"easeDir": "Out"
-}
+    "duration": 2,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.8
+   }
   },
   {
    "t": 100909.109236364,
    "e": "FocusCamera",
    "v": {
-	"duration": 4,
-	"x": 0,
-	"y": 0,
-	"ease": "quint",
-	"char": 1,
-	"easeDir": "Out"
-}
+    "char": 1,
+    "duration": 4,
+    "ease": "quint",
+    "easeDir": "Out",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
   },
   {
-   "t": 101181.836509091,
+   "t": 101454.545454545,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "expo",
-	"zoom": 0.65,
-	"mode": "direct",
-	"easeDir": "Out"
-}
+    "duration": 2,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.7
+   }
   },
   {
-   "t": 102409.109236364,
+   "t": 102545.454545455,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "quint",
-	"easeDir": "Out",
-	"zoom": 1.1,
-	"mode": "direct"
-}
-  },
-  {
-   "t": 103636.4001,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"ease": "quint",
-	"easeDir": "Out",
-	"zoom": 1.15,
-	"mode": "direct"
-}
-  },
-  {
-   "t": 104727.309190909,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"ease": "quad",
-	"easeDir": "Out",
-	"zoom": 1,
-	"mode": "direct"
-}
-  },
-  {
-   "t": 105272.763736364,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"ease": "quad",
-	"easeDir": "Out",
-	"zoom": 1.15,
-	"mode": "direct"
-}
+    "duration": 4,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.9
+   }
   },
   {
    "t": 105272.763736364,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 0,
-	"char": 0,
-	"ease": "expo",
-	"easeDir": "Out"
-}
+    "char": 0,
+    "duration": 4,
+    "ease": "expo",
+    "easeDir": "Out",
+    "x": 0,
+    "y": 0
+   },
+   "_layer": "FocusCamera 1"
+  },
+  {
+   "t": 105273,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 4,
+    "ease": "expo",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.8
+   }
+  },
+  {
+   "t": 106636.363636364,
+   "e": "ZoomCamera",
+   "v": {
+    "duration": 4,
+    "ease": "cube",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.65
+   }
   },
   {
    "t": 106636.4001,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 153,
-	"char": 2,
-	"ease": "quint",
-	"easeDir": "Out"
-}
+    "char": 2,
+    "duration": 4,
+    "ease": "quint",
+    "easeDir": "Out",
+    "x": 70,
+    "y": 153
+   },
+   "_layer": "FocusCamera 1"
   },
   {
-   "t": 106636.4001,
+   "t": 109090.909090909,
    "e": "ZoomCamera",
    "v": {
-	"duration": 4,
-	"ease": "smootherStep",
-	"easeDir": "Out",
-	"zoom": 0.6,
-	"mode": "direct"
-}
-  },
-  {
-   "t": 109090.947954545,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 14.5,
-	"ease": "smootherStep",
-	"zoom": 0.95,
-	"mode": "direct",
-	"easeDir": "Out"
-}
+    "duration": 36,
+    "ease": "cube",
+    "easeDir": "Out",
+    "mode": "direct",
+    "widescreenScaleX": 0,
+    "widescreenScaleY": 0,
+    "zoom": 0.55
+   }
   },
   {
    "t": 113454.584318182,
    "e": "PlayAnimation",
    "v": {
-	"target": "dad",
-	"anim": "Yeah",
-	"force": false
-}
+    "anim": "Yeah",
+    "force": false,
+    "target": "dad"
+   }
   },
   {
    "t": 113454.584318182,
    "e": "PlayAnimation",
    "v": {
-	"target": "boyfriend",
-	"anim": "hey",
-	"force": true
-}
-  },
-  {
-   "t": 113454.584318182,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"ease": "INSTANT",
-	"easeDir": "In",
-	"zoom": 0.7,
-	"mode": "direct"
-}
+    "anim": "hey",
+    "force": true,
+    "target": "boyfriend"
+   }
   },
   {
    "t": 113454.584318182,
    "e": "FocusCamera",
    "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 223,
-	"char": 2,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
+    "char": 2,
+    "duration": 4,
+    "ease": "INSTANT",
+    "easeDir": "In",
+    "x": 70,
+    "y": 123
+   },
+   "_layer": "FocusCamera 1"
   }
  ],
  "notes": {
@@ -5358,7 +5626,8 @@
    {
     "t": 17454.5454545455,
     "d": 2,
-    "l": 340.909090909091
+    "l": 340.909090909091,
+    "k": "noanim"
    },
    {
     "t": 18000,
@@ -7605,7 +7874,8 @@
    },
    {
     "t": 96272.7331090909,
-    "d": 2
+    "d": 2,
+    "k": "noanim"
    },
    {
     "t": 96545.4603818182,
@@ -8069,9 +8339,7 @@
     "d": 2,
     "l": 2045.45454545455
    }
-  ],
-  "erect": [],
-  "nightmare": []
+  ]
  },
- "generatedBy": "Friday Night Funkin' - v0.8.4"
+ "generatedBy": "Friday Night Funkin' - v0.8.5"
 }
