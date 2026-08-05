@@ -14,7 +14,7 @@
     "duration": 4,
     "ease": "INSTANT",
     "easeDir": "In",
-    "x": 0,
+    "x": 100,
     "y": -100
    }
   },
@@ -80,7 +80,7 @@
     "duration": 4,
     "ease": "INSTANT",
     "easeDir": "In",
-    "x": 0,
+    "x": 100,
     "y": -100
    }
   },
@@ -132,7 +132,7 @@
     "duration": 4,
     "ease": "quad",
     "easeDir": "Out",
-    "x": 0,
+    "x": 100,
     "y": -100
    }
   },
@@ -184,8 +184,8 @@
     "duration": 15,
     "ease": "cube",
     "easeDir": "In",
-    "x": 0,
-    "y": -230
+    "x": -110,
+    "y": -170
    }
   },
   {
@@ -224,7 +224,7 @@
     "duration": 4,
     "ease": "CLASSIC",
     "easeDir": "In",
-    "x": 0,
+    "x": 100,
     "y": -100
    }
   },
@@ -276,8 +276,8 @@
     "duration": 4,
     "ease": "sine",
     "easeDir": "Out",
-    "x": 0,
-    "y": -220
+    "x": -110,
+    "y": -10
    }
   },
   {
@@ -328,7 +328,7 @@
     "duration": 4,
     "ease": "expo",
     "easeDir": "Out",
-    "x": 0,
+    "x": 100,
     "y": -100
    }
   },
@@ -450,7 +450,7 @@
     "duration": 4,
     "ease": "cube",
     "easeDir": "Out",
-    "x": 0,
+    "x": 100,
     "y": -100
    }
   },
@@ -544,7 +544,7 @@
     "duration": 5,
     "ease": "quart",
     "easeDir": "Out",
-    "x": 0,
+    "x": 100,
     "y": -100
    }
   },
@@ -652,7 +652,7 @@
     "duration": 4,
     "ease": "INSTANT",
     "easeDir": "In",
-    "x": 0,
+    "x": 100,
     "y": -100
    }
   },
@@ -704,8 +704,8 @@
     "duration": 30,
     "ease": "cube",
     "easeDir": "In",
-    "x": 0,
-    "y": -100
+    "x": -110,
+    "y": -10
    }
   },
   {
@@ -758,8 +758,8 @@
     "duration": 4,
     "ease": "expo",
     "easeDir": "Out",
-    "x": 0,
-    "y": -270
+    "x": 100,
+    "y": -100
    }
   },
   {
@@ -852,7 +852,7 @@
     "duration": 4,
     "ease": "CLASSIC",
     "easeDir": "In",
-    "x": 0,
+    "x": 100,
     "y": -100
    }
   },
@@ -974,7 +974,7 @@
     "duration": 4,
     "ease": "INSTANT",
     "easeDir": "In",
-    "x": 0,
+    "x": 100,
     "y": -100
    }
   },
@@ -1040,7 +1040,7 @@
     "duration": 4,
     "ease": "INSTANT",
     "easeDir": "In",
-    "x": 0,
+    "x": 100,
     "y": -100
    }
   }

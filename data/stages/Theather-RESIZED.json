@@ -1,0 +1,133 @@
+{
+  "props": [
+    {
+      "danceEvery": 0,
+      "zIndex": 1,
+      "position": [-1625, -1559],
+      "scale": [1.0, 1.0],
+      "animType": "sparrow",
+      "name": "Backseats",
+      "isPixel": false,
+      "assetPath": "Theather-Week1/BACKseats",
+      "scroll": [1.0, 1.0],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 2,
+      "position": [-618, 45],
+      "scale": [1.0, 1.0],
+      "animType": "sparrow",
+      "name": "PEOPLE3",
+      "isPixel": false,
+      "assetPath": "Theather-Week1/people3",
+      "scroll": [1.0, 1.0],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 3,
+      "position": [-554, 369.5],
+      "scale": [1.0, 1.0],
+      "animType": "sparrow",
+      "name": "PEOPLE2",
+      "isPixel": false,
+      "assetPath": "Theather-Week1/people2",
+      "scroll": [1.0, 1.0],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 4,
+      "position": [-355, 404],
+      "scale": [1.0, 1.0],
+      "animType": "sparrow",
+      "name": "PEOPLE1",
+      "isPixel": false,
+      "assetPath": "Theather-Week1/pepople1",
+      "scroll": [1.0, 1.0],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 5,
+      "position": [-2562, 625],
+      "scale": [1.0, 1.0],
+      "animType": "sparrow",
+      "name": "Ground",
+      "isPixel": false,
+      "assetPath": "Theather-Week1/ground",
+      "scroll": [1.0, 1.0],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 6,
+      "position": [-685, -933],
+      "scale": [1.0, 1.0],
+      "animType": "sparrow",
+      "name": "Speaker1",
+      "isPixel": false,
+      "assetPath": "Theather-Week1/speaker1",
+      "scroll": [1.0, 1.0],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 7,
+      "position": [1062, -935],
+      "scale": [1.0, 1.0],
+      "animType": "sparrow",
+      "name": "Speaker2",
+      "isPixel": false,
+      "assetPath": "Theather-Week1/speaker2",
+      "scroll": [1.0, 1.0],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 8,
+      "position": [-2071, -1202],
+      "scale": [1.0, 1.0],
+      "animType": "sparrow",
+      "name": "Curtain1",
+      "isPixel": false,
+      "assetPath": "Theather-Week1/Curtain1",
+      "scroll": [1.0, 1.0],
+      "animations": []
+    },
+    {
+      "danceEvery": 0,
+      "zIndex": 9,
+      "position": [1556, -1219],
+      "scale": [1.0, 1.0],
+      "animType": "sparrow",
+      "name": "Curtain2",
+      "isPixel": false,
+      "assetPath": "Theather-Week1/Curtain2",
+      "scroll": [1.0, 1.0],
+      "animations": []
+    }
+  ],
+  "cameraZoom": 0.4,
+  "version": "1.0.0",
+  "characters": {
+    "bf": {
+      "zIndex": 300,
+      "position": [989.5, 906],
+      "cameraOffsets": [-57, -100]
+    },
+    "dad": {
+      "zIndex": 200,
+      "position": [120, 886],
+      "cameraOffsets": [-15, -58]
+    },
+    "gf": {
+      "zIndex": 100,
+      "cameraOffsets": [-15, -146],
+      "position": [576.5, 811]
+    }
+  },
+  "name": "Theather [WIP] (EXPERIMENT)",
+  "directory": "Theather-Week1"
+}
