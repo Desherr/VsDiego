@@ -3,8 +3,13 @@
     {
       "danceEvery": 0,
       "zIndex": 1,
+<<<<<<< HEAD
       "position": [-1500, -962],
       "scale": [2.25, 2.25],
+=======
+      "position": [-1570, -1001],
+      "scale": [2.70, 2.35],
+>>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
       "animType": "sparrow",
       "name": "sky",
       "isPixel": false,
