@@ -21,11 +21,7 @@
     "bf"
    ]
   },
-<<<<<<< HEAD:gameplay/songs/backshot/backshot-metadata-erect.json
   "stage": "newJerkSTREET",
-=======
-  "stage": "newJerkSTREETWIP",
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/backshot/backshot-metadata-erect.json
   "noteStyle": "funkin",
   "album": "volume1diegoERECT",
   "stickerPack": "week-Dg-standard",

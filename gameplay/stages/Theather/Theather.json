@@ -57,11 +57,7 @@
       "name": "luz1",
       "isPixel": false,
       "blend": "screen",
-<<<<<<< HEAD:gameplay/stages/Theather/Theather.json
       "assetPath": "gameplay/stages/Theather/luz1",
-=======
-      "assetPath": "Theather-Week1/luz1",
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/stages/Theather.json
       "scroll": [1.0, 1.0],
       "alpha": 0.25,
       "animations": []
@@ -75,11 +71,7 @@
       "name": "luz2",
       "isPixel": false,
       "blend": "screen",
-<<<<<<< HEAD:gameplay/stages/Theather/Theather.json
       "assetPath": "gameplay/stages/Theather/luz2",
-=======
-      "assetPath": "Theather-Week1/luz2",
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/stages/Theather.json
       "scroll": [1.0, 1.0],
       "alpha": 0.25,
       "animations": []
@@ -104,11 +96,7 @@
       "animType": "sparrow",
       "name": "Speaker1",
       "isPixel": false,
-<<<<<<< HEAD:gameplay/stages/Theather/Theather.json
       "assetPath": "gameplay/stages/Theather/speaker1",
-=======
-      "assetPath": "Theather-Week1/speaker1",
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/stages/Theather.json
       "scroll": [1.05, 1.0],
       "animations": []
     },
@@ -120,11 +108,7 @@
       "animType": "sparrow",
       "name": "Speaker2",
       "isPixel": false,
-<<<<<<< HEAD:gameplay/stages/Theather/Theather.json
       "assetPath": "gameplay/stages/Theather/speaker2",
-=======
-      "assetPath": "Theather-Week1/speaker2",
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/stages/Theather.json
       "scroll": [1.05, 1.0],
       "animations": []
     },
@@ -161,18 +145,6 @@
       "name": "Sonicshie",
       "isPixel": false,
       "assetPath": "gameplay/stages/Theather/sonicPLUSHIE",
-      "scroll": [1.0, 1.0],
-      "animations": []
-    },
-    {
-      "danceEvery": 0,
-      "zIndex": 10,
-      "position": [1784, 838],
-      "scale": [1.20, 1.20],
-      "animType": "sparrow",
-      "name": "Sonicshie",
-      "isPixel": false,
-      "assetPath": "Theather-Week1/sonicPLUSHIE",
       "scroll": [1.0, 1.0],
       "animations": []
     }

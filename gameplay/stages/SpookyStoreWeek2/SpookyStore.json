@@ -8,11 +8,7 @@
       "animType": "sparrow",
       "name": "SpookyStore",
       "isPixel": false,
-<<<<<<< HEAD:gameplay/stages/SpookyStoreWeek2/SpookyStore.json
       "assetPath": "gameplay/stages/SpookyStoreWeek2/background_spokky",
-=======
-      "assetPath": "SpookyStoreWeek2/background_spokky",
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/stages/SpookyStore.json
       "scroll": [1.00, 1.00],
       "animations": []
     }

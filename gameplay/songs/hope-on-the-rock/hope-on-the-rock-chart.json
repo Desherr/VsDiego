@@ -22,10 +22,6 @@
    "t": 0,
    "e": "FocusCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "char": 2,
     "duration": 4,
     "ease": "INSTANT",
@@ -34,27 +30,11 @@
     "y": -1190
    },
    "_layer": "FocusCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"x": 50,
-	"duration": 4,
-	"y": -1190,
-	"char": 2,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 0,
    "e": "ZoomCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "duration": 112,
     "ease": "expo",
     "easeDir": "InOut",
@@ -62,26 +42,11 @@
     "zoom": 0.85
    },
    "_layer": "ZoomCamera 2"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"duration": 112,
-	"ease": "expo",
-	"zoom": 0.85,
-	"easeDir": "InOut",
-	"mode": "stage"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 0,
    "e": "FocusCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "char": 2,
     "duration": 112,
     "ease": "expo",
@@ -117,7 +82,6 @@
     "zoom": 0.7
    },
    "_layer": "ZoomCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 10909.0909090909,
@@ -172,155 +136,11 @@
     "zoom": 0.9
    },
    "_layer": "ZoomCamera 1"
-=======
-  },
-  {
-   "t": 10909.0909090909,
-   "e": "FocusCamera",
-   "v": {
-    "char": 1,
-    "duration": 4,
-    "ease": "CLASSIC",
-    "easeDir": "Out",
-    "x": 0,
-    "y": -60
-   },
-   "_layer": "FocusCamera 2"
-  },
-  {
-   "t": 10909.0909090909,
-   "e": "ZoomCamera",
-   "v": {
-    "duration": 16,
-    "ease": "expo",
-    "easeDir": "Out",
-    "mode": "direct",
-    "widescreenScaleX": 0,
-    "widescreenScaleY": 0,
-    "zoom": 0.95
-   },
-   "_layer": "ZoomCamera 2"
-  },
-  {
-   "t": 16363.6363636364,
-   "e": "FocusCamera",
-   "v": {
-    "char": 0,
-    "duration": 16,
-    "ease": "expo",
-    "easeDir": "Out",
-    "x": 0,
-    "y": 0
-   },
-   "_layer": "FocusCamera 1"
-  },
-  {
-   "t": 20284.0909090909,
-   "e": "ZoomCamera",
-   "v": {
-    "duration": 9,
-    "ease": "expo",
-    "easeDir": "Out",
-    "mode": "direct",
-    "widescreenScaleX": 0,
-    "widescreenScaleY": 0,
-    "zoom": 0.9
-   },
-   "_layer": "ZoomCamera 1"
-=======
-	"x": 60,
-	"duration": 112,
-	"y": 190,
-	"char": 2,
-	"ease": "expo",
-	"easeDir": "InOut"
-}
-  },
-  {
-   "t": 8181.81818181818,
-   "e": "FocusCamera",
-   "v": {
-	"x": 50,
-	"duration": 32,
-	"y": 300,
-	"char": 2,
-	"ease": "expo",
-	"easeDir": "InOut"
-}
-  },
-  {
-   "t": 9545.45454545454,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 16,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 0.7,
-	"easeDir": "Out",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 10909.0909090909,
-   "e": "FocusCamera",
-   "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 80,
-	"char": 1,
-	"ease": "CLASSIC",
-	"easeDir": "Out"
-}
-  },
-  {
-   "t": 10909.0909090909,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 16,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 0.95,
-	"easeDir": "Out",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 16363.6363636364,
-   "e": "FocusCamera",
-   "v": {
-	"x": 0,
-	"duration": 16,
-	"y": 70,
-	"char": 0,
-	"ease": "expo",
-	"easeDir": "Out"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
-  },
-  {
-   "t": 20284.0909090909,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 9,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 0.9,
-	"easeDir": "Out",
-	"mode": "direct"
-}
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 21822.1188441595,
    "e": "FocusCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "char": 1,
     "duration": 16,
     "ease": "expo",
@@ -329,27 +149,11 @@
     "y": -60
    },
    "_layer": "FocusCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"x": 0,
-	"duration": 16,
-	"y": 70,
-	"char": 1,
-	"ease": "expo",
-	"easeDir": "Out"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 24886.3636363636,
    "e": "ZoomCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "duration": 4,
     "ease": "expo",
     "easeDir": "Out",
@@ -359,7 +163,6 @@
     "zoom": 0.95
    },
    "_layer": "ZoomCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 25397.7272727273,
@@ -393,74 +196,6 @@
    "t": 26590.9090909091,
    "e": "FocusCamera",
    "v": {
-=======
-=======
-	"duration": 4,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 0.95,
-	"easeDir": "Out",
-	"mode": "direct"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
-  },
-  {
-   "t": 25397.7272727273,
-   "e": "ZoomCamera",
-   "v": {
-<<<<<<< HEAD
-    "duration": 4,
-    "ease": "expo",
-    "easeDir": "Out",
-    "mode": "direct",
-    "widescreenScaleX": 0,
-    "widescreenScaleY": 0,
-    "zoom": 1
-   },
-   "_layer": "ZoomCamera 1"
-=======
-	"duration": 4,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1,
-	"easeDir": "Out",
-	"mode": "direct"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
-  },
-  {
-   "t": 26590.9090909091,
-   "e": "ZoomCamera",
-   "v": {
-<<<<<<< HEAD
-    "duration": 8,
-    "ease": "expo",
-    "easeDir": "Out",
-    "mode": "direct",
-    "widescreenScaleX": 0,
-    "widescreenScaleY": 0,
-    "zoom": 0.8
-   },
-   "_layer": "ZoomCamera 1"
-=======
-	"duration": 8,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 0.8,
-	"easeDir": "Out",
-	"mode": "direct"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
-  },
-  {
-   "t": 26590.9090909091,
-   "e": "FocusCamera",
-   "v": {
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "char": 0,
     "duration": 16,
     "ease": "expo",
@@ -469,27 +204,11 @@
     "y": 0
    },
    "_layer": "FocusCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"x": 0,
-	"duration": 16,
-	"y": 30,
-	"char": 0,
-	"ease": "expo",
-	"easeDir": "InOut"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 27272.7272727273,
    "e": "ZoomCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "duration": 8,
     "ease": "expo",
     "easeDir": "Out",
@@ -499,28 +218,11 @@
     "zoom": 0.9
    },
    "_layer": "ZoomCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"duration": 8,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 0.9,
-	"easeDir": "Out",
-	"mode": "direct"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 30340.9090909091,
    "e": "ZoomCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "duration": 4,
     "ease": "expo",
     "easeDir": "Out",
@@ -530,28 +232,11 @@
     "zoom": 0.95
    },
    "_layer": "ZoomCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"duration": 4,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 0.95,
-	"easeDir": "Out",
-	"mode": "direct"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 30852.2727272728,
    "e": "ZoomCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "duration": 4,
     "ease": "expo",
     "easeDir": "Out",
@@ -561,28 +246,11 @@
     "zoom": 1
    },
    "_layer": "ZoomCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"duration": 4,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1,
-	"easeDir": "Out",
-	"mode": "direct"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 32045.4545454545,
    "e": "FocusCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "char": 2,
     "duration": 16,
     "ease": "expo",
@@ -591,27 +259,11 @@
     "y": 90
    },
    "_layer": "FocusCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"x": 60,
-	"duration": 16,
-	"y": 310,
-	"char": 2,
-	"ease": "expo",
-	"easeDir": "InOut"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 32045.4545454546,
    "e": "ZoomCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "duration": 8,
     "ease": "expo",
     "easeDir": "Out",
@@ -621,28 +273,11 @@
     "zoom": 0.8
    },
    "_layer": "ZoomCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"duration": 8,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 0.8,
-	"easeDir": "Out",
-	"mode": "direct"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 32727.2727272728,
    "e": "ZoomCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "duration": 16,
     "ease": "expo",
     "easeDir": "In",
@@ -652,28 +287,11 @@
     "zoom": 0.6
    },
    "_layer": "ZoomCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"duration": 16,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 0.6,
-	"easeDir": "In",
-	"mode": "direct"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 34090.9090909091,
    "e": "ZoomCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "duration": 0.1,
     "ease": "INSTANT",
     "easeDir": "In",
@@ -683,28 +301,11 @@
     "zoom": 1.55
    },
    "_layer": "ZoomCamera 2"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"duration": 0.1,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "INSTANT",
-	"zoom": 1.55,
-	"easeDir": "In",
-	"mode": "direct"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 34090.9090909091,
    "e": "ZoomCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "duration": 8,
     "ease": "expo",
     "easeDir": "Out",
@@ -714,28 +315,11 @@
     "zoom": 1.15
    },
    "_layer": "ZoomCamera 3"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"duration": 8,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.15,
-	"easeDir": "Out",
-	"mode": "direct"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 34090.9090909091,
    "e": "FocusCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "char": 1,
     "duration": 4,
     "ease": "INSTANT",
@@ -786,57 +370,6 @@
     "zoom": 1.3
    },
    "_layer": "ZoomCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"x": 0,
-	"duration": 4,
-	"y": 70,
-	"char": 1,
-	"ease": "INSTANT",
-	"easeDir": "Out"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
-  },
-  {
-   "t": 35454.5454545454,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1,
-	"easeDir": "Out",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 36818.1818181818,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.1,
-	"easeDir": "Out",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 38181.8181818182,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.3,
-	"easeDir": "Out",
-	"mode": "direct"
-}
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 38522.7272727273,
@@ -851,10 +384,6 @@
    "t": 39545.4545454545,
    "e": "FocusCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "char": 0,
     "duration": 4,
     "ease": "INSTANT",
@@ -933,83 +462,6 @@
     "zoom": 1.3
    },
    "_layer": "ZoomCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"x": 0,
-	"duration": 4,
-	"y": 70,
-	"char": 0,
-	"ease": "INSTANT",
-	"easeDir": "Out"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
-  },
-  {
-   "t": 39545.4545454545,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "INSTANT",
-	"zoom": 1.55,
-	"easeDir": "In",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 39545.4545454545,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 8,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.15,
-	"easeDir": "Out",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 40909.0909090908,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1,
-	"easeDir": "Out",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 42272.7272727272,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.1,
-	"easeDir": "Out",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 43636.3636363636,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.3,
-	"easeDir": "Out",
-	"mode": "direct"
-}
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 44147.7272727273,
@@ -1024,10 +476,6 @@
    "t": 44305.4343946703,
    "e": "FocusCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "char": 1,
     "duration": 8,
     "ease": "expo",
@@ -1036,27 +484,11 @@
     "y": -60
    },
    "_layer": "FocusCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"x": 0,
-	"duration": 8,
-	"y": 60,
-	"char": 1,
-	"ease": "expo",
-	"easeDir": "In"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 45000,
    "e": "ZoomCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "duration": 8,
     "ease": "expo",
     "easeDir": "Out",
@@ -1066,28 +498,11 @@
     "zoom": 1.05
    },
    "_layer": "ZoomCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"duration": 8,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.05,
-	"easeDir": "Out",
-	"mode": "direct"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 50454.5454545454,
    "e": "ZoomCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "duration": 4,
     "ease": "INSTANT",
     "easeDir": "In",
@@ -1097,28 +512,11 @@
     "zoom": 1.15
    },
    "_layer": "ZoomCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"duration": 4,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "INSTANT",
-	"zoom": 1.15,
-	"easeDir": "In",
-	"mode": "direct"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 50454.5454545454,
    "e": "FocusCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "char": 0,
     "duration": 4,
     "ease": "INSTANT",
@@ -1141,40 +539,11 @@
     "zoom": 1.15
    },
    "_layer": "ZoomCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"x": 0,
-	"duration": 4,
-	"y": 70,
-	"char": 0,
-	"ease": "INSTANT",
-	"easeDir": "Out"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
-  },
-  {
-   "t": 54545.4545454545,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 32,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.15,
-	"easeDir": "InOut",
-	"mode": "direct"
-}
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 54545.5690230242,
    "e": "FocusCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "char": 1,
     "duration": 32,
     "ease": "expo",
@@ -1183,27 +552,11 @@
     "y": -60
    },
    "_layer": "FocusCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"x": 0,
-	"duration": 32,
-	"y": 70,
-	"char": 1,
-	"ease": "expo",
-	"easeDir": "InOut"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 57272.7272727273,
    "e": "ZoomCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "duration": 32,
     "ease": "expo",
     "easeDir": "InOut",
@@ -1213,28 +566,11 @@
     "zoom": 1.4
    },
    "_layer": "ZoomCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"duration": 32,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.4,
-	"easeDir": "InOut",
-	"mode": "direct"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 60000,
    "e": "ZoomCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "duration": 32,
     "ease": "expo",
     "easeDir": "InOut",
@@ -1244,28 +580,11 @@
     "zoom": 1.15
    },
    "_layer": "ZoomCamera 2"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"duration": 32,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.15,
-	"easeDir": "InOut",
-	"mode": "direct"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 62727.2727272727,
    "e": "ZoomCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "duration": 32,
     "ease": "expo",
     "easeDir": "InOut",
@@ -1275,19 +594,6 @@
     "zoom": 1.4
    },
    "_layer": "ZoomCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"duration": 32,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.4,
-	"easeDir": "InOut",
-	"mode": "direct"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 64261.7272727273,
@@ -1297,297 +603,9 @@
     "force": true,
     "target": "dad"
    }
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 65454.5454545454,
-   "e": "FocusCamera",
-   "v": {
-    "char": 0,
-    "duration": 32,
-    "ease": "expo",
-    "easeDir": "InOut",
-    "x": 0,
-    "y": 0
-   },
-   "_layer": "FocusCamera 1"
-  },
-  {
-   "t": 65454.5454545454,
-   "e": "ZoomCamera",
-   "v": {
-    "duration": 32,
-    "ease": "expo",
-    "easeDir": "InOut",
-    "mode": "direct",
-    "widescreenScaleX": 0,
-    "widescreenScaleY": 0,
-    "zoom": 1.15
-   },
-   "_layer": "ZoomCamera 2"
-  },
-  {
-   "t": 68181.8181818182,
-   "e": "ZoomCamera",
-   "v": {
-    "duration": 32,
-    "ease": "expo",
-    "easeDir": "InOut",
-    "mode": "direct",
-    "widescreenScaleX": 0,
-    "widescreenScaleY": 0,
-    "zoom": 0.9
-   },
-   "_layer": "ZoomCamera 1"
-  },
-  {
-   "t": 70909.0909090909,
-   "e": "FocusCamera",
-   "v": {
-    "char": 2,
-    "duration": 8,
-    "ease": "expo",
-    "easeDir": "InOut",
-    "x": 90,
-    "y": 90
-   },
-   "_layer": "FocusCamera 1"
-  },
-  {
-   "t": 70909.0909090909,
-   "e": "ZoomCamera",
-   "v": {
-    "duration": 32,
-    "ease": "expo",
-    "easeDir": "InOut",
-    "mode": "direct",
-    "widescreenScaleX": 0,
-    "widescreenScaleY": 0,
-    "zoom": 1.15
-   },
-   "_layer": "ZoomCamera 2"
-  },
-  {
-   "t": 71590.9090909091,
-   "e": "FocusCamera",
-   "v": {
-    "char": 0,
-    "duration": 16,
-    "ease": "expo",
-    "easeDir": "InOut",
-    "x": 0,
-    "y": 0
-   },
-   "_layer": "FocusCamera 1"
-  },
-  {
-   "t": 73636.3636363636,
-   "e": "ZoomCamera",
-   "v": {
-    "duration": 32,
-    "ease": "expo",
-    "easeDir": "InOut",
-    "mode": "direct",
-    "widescreenScaleX": 0,
-    "widescreenScaleY": 0,
-    "zoom": 1.4
-   },
-   "_layer": "ZoomCamera 1"
-  },
-  {
-   "t": 76363.6363636364,
-   "e": "ZoomCamera",
-   "v": {
-    "duration": 32,
-    "ease": "expo",
-    "easeDir": "InOut",
-    "mode": "direct",
-    "widescreenScaleX": 0,
-    "widescreenScaleY": 0,
-    "zoom": 1.05
-   },
-   "_layer": "ZoomCamera 1"
-  },
-  {
-   "t": 77727.2727272727,
-   "e": "FocusCamera",
-   "v": {
-    "char": 1,
-    "duration": 4,
-    "ease": "expo",
-    "easeDir": "Out",
-    "x": 0,
-    "y": -60
-   },
-   "_layer": "FocusCamera 1"
-  },
-  {
-   "t": 82840.9090909091,
-   "e": "FocusCamera",
-   "v": {
-    "char": 0,
-    "duration": 8,
-    "ease": "expo",
-    "easeDir": "InOut",
-    "x": 0,
-    "y": 0
-   },
-   "_layer": "FocusCamera 1"
-  },
-  {
-   "t": 87272.7272727273,
-   "e": "ZoomCamera",
-   "v": {
-    "duration": 2,
-    "ease": "expo",
-    "easeDir": "Out",
-    "mode": "direct",
-    "widescreenScaleX": 0,
-    "widescreenScaleY": 0,
-    "zoom": 1.1
-   },
-   "_layer": "ZoomCamera 1"
-  },
-  {
-   "t": 87443.1818181818,
-   "e": "ZoomCamera",
-   "v": {
-    "duration": 2,
-    "ease": "expo",
-    "easeDir": "Out",
-    "mode": "direct",
-    "widescreenScaleX": 0,
-    "widescreenScaleY": 0,
-    "zoom": 1.15
-   },
-   "_layer": "ZoomCamera 2"
-  },
-  {
-   "t": 87784.0909090909,
-   "e": "ZoomCamera",
-   "v": {
-    "duration": 2,
-    "ease": "expo",
-    "easeDir": "Out",
-    "mode": "direct",
-    "widescreenScaleX": 0,
-    "widescreenScaleY": 0,
-    "zoom": 1.2
-   },
-   "_layer": "ZoomCamera 1"
-  },
-  {
-   "t": 87954.5454545454,
-   "e": "ZoomCamera",
-   "v": {
-    "duration": 2,
-    "ease": "expo",
-    "easeDir": "Out",
-    "mode": "direct",
-    "widescreenScaleX": 0,
-    "widescreenScaleY": 0,
-    "zoom": 1.25
-   },
-   "_layer": "ZoomCamera 2"
-  },
-  {
-   "t": 88295.4545454545,
-   "e": "ZoomCamera",
-   "v": {
-    "duration": 2,
-    "ease": "expo",
-    "easeDir": "Out",
-    "mode": "direct",
-    "widescreenScaleX": 0,
-    "widescreenScaleY": 0,
-    "zoom": 1.3
-   },
-   "_layer": "ZoomCamera 1"
-  },
-  {
-   "t": 88465.9090909091,
-   "e": "ZoomCamera",
-   "v": {
-    "duration": 2,
-    "ease": "expo",
-    "easeDir": "Out",
-    "mode": "direct",
-    "widescreenScaleX": 0,
-    "widescreenScaleY": 0,
-    "zoom": 1.35
-   },
-   "_layer": "ZoomCamera 1"
-  },
-  {
-   "t": 88636.3636363636,
-   "e": "FocusCamera",
-   "v": {
-    "char": 1,
-    "duration": 16,
-    "ease": "expo",
-    "easeDir": "InOut",
-    "x": 0,
-    "y": -60
-   },
-   "_layer": "FocusCamera 1"
-  },
-  {
-   "t": 89318.1818181818,
-   "e": "ZoomCamera",
-   "v": {
-    "duration": 12,
-    "ease": "expo",
-    "easeDir": "Out",
-    "mode": "direct",
-    "widescreenScaleX": 0,
-    "widescreenScaleY": 0,
-    "zoom": 0.8
-   },
-   "_layer": "ZoomCamera 1"
-  },
-  {
-   "t": 94772.7272727273,
-   "e": "FocusCamera",
-   "v": {
-    "char": 0,
-    "duration": 8,
-    "ease": "CLASSIC",
-    "easeDir": "Out",
-    "x": 0,
-    "y": 0
-   },
-   "_layer": "FocusCamera 1"
-  },
-  {
-   "t": 98181.8181818182,
-   "e": "FocusCamera",
-   "v": {
-    "char": 2,
-    "duration": 16,
-    "ease": "expo",
-    "easeDir": "InOut",
-    "x": 100,
-    "y": 90
-   },
-   "_layer": "FocusCamera 1"
-  },
-  {
-   "t": 100227.272727273,
-   "e": "FocusCamera",
-   "v": {
-    "char": 1,
-    "duration": 5,
-    "ease": "CLASSIC",
-    "easeDir": "Out",
-    "x": 0,
-    "y": -60
-   },
-   "_layer": "FocusCamera 1"
-=======
-  },
-  {
-   "t": 65454.5454545454,
-<<<<<<< HEAD
    "e": "FocusCamera",
    "v": {
     "char": 0,
@@ -1898,329 +916,11 @@
     "zoom": 0.8
    },
    "_layer": "ZoomCamera 2"
-=======
-   "e": "FocusCamera",
-   "v": {
-	"x": 0,
-	"duration": 32,
-	"y": 70,
-	"char": 0,
-	"ease": "expo",
-	"easeDir": "InOut"
-}
-  },
-  {
-   "t": 65454.5454545454,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 32,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.15,
-	"easeDir": "InOut",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 68181.8181818182,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 32,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 0.9,
-	"easeDir": "InOut",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 70909.0909090909,
-   "e": "FocusCamera",
-   "v": {
-	"x": 90,
-	"duration": 8,
-	"y": 270,
-	"char": 2,
-	"ease": "expo",
-	"easeDir": "InOut"
-}
-  },
-  {
-   "t": 70909.0909090909,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 32,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.15,
-	"easeDir": "InOut",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 71590.9090909091,
-   "e": "FocusCamera",
-   "v": {
-	"x": 0,
-	"duration": 16,
-	"y": 70,
-	"char": 0,
-	"ease": "expo",
-	"easeDir": "InOut"
-}
-  },
-  {
-   "t": 73636.3636363636,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 32,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.4,
-	"easeDir": "InOut",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 76363.6363636364,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 32,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.05,
-	"easeDir": "InOut",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 77727.2727272727,
-   "e": "FocusCamera",
-   "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 70,
-	"char": 1,
-	"ease": "expo",
-	"easeDir": "Out"
-}
-  },
-  {
-   "t": 82840.9090909091,
-   "e": "FocusCamera",
-   "v": {
-	"x": 0,
-	"duration": 8,
-	"y": 70,
-	"char": 0,
-	"ease": "expo",
-	"easeDir": "InOut"
-}
-  },
-  {
-   "t": 87272.7272727273,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 2,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.1,
-	"easeDir": "Out",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 87443.1818181818,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 2,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.15,
-	"easeDir": "Out",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 87784.0909090909,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 2,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.2,
-	"easeDir": "Out",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 87954.5454545454,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 2,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.25,
-	"easeDir": "Out",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 88295.4545454545,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 2,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.3,
-	"easeDir": "Out",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 88465.9090909091,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 2,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.35,
-	"easeDir": "Out",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 88636.3636363636,
-   "e": "FocusCamera",
-   "v": {
-	"x": 0,
-	"duration": 16,
-	"y": 70,
-	"char": 1,
-	"ease": "expo",
-	"easeDir": "InOut"
-}
-  },
-  {
-   "t": 89318.1818181818,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 12,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 0.8,
-	"easeDir": "Out",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 94772.7272727273,
-   "e": "FocusCamera",
-   "v": {
-	"x": 0,
-	"duration": 8,
-	"y": 0,
-	"char": 0,
-	"ease": "CLASSIC",
-	"easeDir": "Out"
-}
-  },
-  {
-   "t": 98181.8181818182,
-   "e": "FocusCamera",
-   "v": {
-	"x": 100,
-	"duration": 16,
-	"y": 270,
-	"char": 2,
-	"ease": "expo",
-	"easeDir": "InOut"
-}
-  },
-  {
-   "t": 100227.272727273,
-   "e": "FocusCamera",
-   "v": {
-	"x": 0,
-	"duration": 5,
-	"y": 80,
-	"char": 1,
-	"ease": "CLASSIC",
-	"easeDir": "Out"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-  },
-  {
-   "t": 100227.272727273,
-   "e": "ZoomCamera",
-   "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-    "duration": 64,
-    "ease": "expo",
-    "easeDir": "InOut",
-    "mode": "direct",
-    "widescreenScaleX": 0,
-    "widescreenScaleY": 0,
-    "zoom": 1
-   },
-   "_layer": "ZoomCamera 1"
-=======
-	"duration": 64,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1,
-	"easeDir": "InOut",
-	"mode": "direct"
-}
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-  },
-  {
-   "t": 105681.818181818,
-   "e": "ZoomCamera",
-   "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-    "duration": 16,
-    "ease": "expo",
-    "easeDir": "Out",
-    "mode": "direct",
-    "widescreenScaleX": 0,
-    "widescreenScaleY": 0,
-    "zoom": 0.8
-   },
-   "_layer": "ZoomCamera 2"
-=======
-	"duration": 16,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 0.8,
-	"easeDir": "Out",
-	"mode": "direct"
-}
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 105698.838773893,
    "e": "FocusCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "char": 2,
     "duration": 7,
     "ease": "CLASSIC",
@@ -2229,27 +929,11 @@
     "y": 90
    },
    "_layer": "FocusCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"x": 80,
-	"duration": 7,
-	"y": 340,
-	"char": 2,
-	"ease": "CLASSIC",
-	"easeDir": "Out"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 108409.090909091,
    "e": "ZoomCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "duration": 16,
     "ease": "expo",
     "easeDir": "In",
@@ -2259,28 +943,11 @@
     "zoom": 0.45
    },
    "_layer": "ZoomCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"duration": 16,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 0.45,
-	"easeDir": "In",
-	"mode": "direct"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 109772.727272727,
    "e": "ZoomCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "duration": 24,
     "ease": "bounce",
     "easeDir": "In",
@@ -2290,28 +957,11 @@
     "zoom": 1.25
    },
    "_layer": "ZoomCamera 2"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"duration": 24,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "bounce",
-	"zoom": 1.25,
-	"easeDir": "In",
-	"mode": "direct"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 111136.363636364,
    "e": "FocusCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "char": 1,
     "duration": 28,
     "ease": "cube",
@@ -2320,27 +970,11 @@
     "y": -60
    },
    "_layer": "FocusCamera 1"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-=======
-	"x": 0,
-	"duration": 28,
-	"y": 70,
-	"char": 1,
-	"ease": "cube",
-	"easeDir": "InOut"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 113522.727272727,
    "e": "FocusCamera",
    "v": {
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
-=======
-<<<<<<< HEAD
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
     "char": 0,
     "duration": 36,
     "ease": "expo",
@@ -2620,7 +1254,6 @@
     "zoom": 5
    },
    "_layer": "ZoomCamera 2"
-<<<<<<< HEAD:gameplay/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   },
   {
    "t": 152727.272727273,
@@ -2634,293 +1267,6 @@
     "y": -2690
    },
    "_layer": "FocusCamera 1"
-=======
-  },
-  {
-   "t": 152727.272727273,
-   "e": "FocusCamera",
-   "v": {
-    "char": -1,
-    "duration": 4,
-    "ease": "INSTANT",
-    "easeDir": "In",
-    "x": -100,
-    "y": -2690
-   },
-   "_layer": "FocusCamera 1"
-=======
-	"x": 0,
-	"duration": 36,
-	"y": 70,
-	"char": 0,
-	"ease": "expo",
-	"easeDir": "InOut"
-}
-  },
-  {
-   "t": 116590.909090909,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 8,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.6,
-	"easeDir": "In",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 117272.727272727,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 8,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.1,
-	"easeDir": "Out",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 117272.727272727,
-   "e": "FocusCamera",
-   "v": {
-	"x": 70,
-	"duration": 16,
-	"y": 320,
-	"char": 2,
-	"ease": "expo",
-	"easeDir": "InOut"
-}
-  },
-  {
-   "t": 117954.545454545,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 16,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 0.85,
-	"easeDir": "InOut",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 118636.363636364,
-   "e": "FocusCamera",
-   "v": {
-	"x": 70,
-	"duration": 16,
-	"y": 80,
-	"char": 0,
-	"ease": "expo",
-	"easeDir": "InOut"
-}
-  },
-  {
-   "t": 119318.181818182,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 32,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 1.3,
-	"easeDir": "In",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 122045.454545455,
-   "e": "FocusCamera",
-   "v": {
-	"x": 60,
-	"duration": 32,
-	"y": 340,
-	"char": 2,
-	"ease": "expo",
-	"easeDir": "InOut"
-}
-  },
-  {
-   "t": 124772.727272727,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 32,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 0.6,
-	"easeDir": "InOut",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 127500,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 112,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "cube",
-	"zoom": 0.8,
-	"easeDir": "InOut",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 137045.454545455,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "INSTANT",
-	"zoom": 1.25,
-	"easeDir": "In",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 137045.454545455,
-   "e": "FocusCamera",
-   "v": {
-	"x": 0,
-	"duration": 5,
-	"y": 80,
-	"char": 0,
-	"ease": "INSTANT",
-	"easeDir": "Out"
-}
-  },
-  {
-   "t": 137386.363636364,
-   "e": "FocusCamera",
-   "v": {
-	"x": 60,
-	"duration": 8,
-	"y": 250,
-	"char": 2,
-	"ease": "expo",
-	"easeDir": "InOut"
-}
-  },
-  {
-   "t": 137727.272727273,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 120,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "quad",
-	"zoom": 0.75,
-	"easeDir": "InOut",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 147954.545454545,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 4,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "INSTANT",
-	"zoom": 1.65,
-	"easeDir": "In",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 147954.545454545,
-   "e": "FocusCamera",
-   "v": {
-	"x": 0,
-	"duration": 4,
-	"y": 80,
-	"char": 0,
-	"ease": "INSTANT",
-	"easeDir": "Out"
-}
-  },
-  {
-   "t": 148125,
-   "e": "FocusCamera",
-   "v": {
-	"x": -220,
-	"duration": 4,
-	"y": 80,
-	"char": 1,
-	"ease": "INSTANT",
-	"easeDir": "Out"
-}
-  },
-  {
-   "t": 148295.454545455,
-   "e": "FocusCamera",
-   "v": {
-	"x": 60,
-	"duration": 4,
-	"y": 370,
-	"char": 2,
-	"ease": "INSTANT",
-	"easeDir": "Out"
-}
-  },
-  {
-   "t": 148636.363636364,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 48,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 0.85,
-	"easeDir": "Out",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 148636.363636364,
-   "e": "FocusCamera",
-   "v": {
-	"x": 50,
-	"duration": 48,
-	"y": -1190,
-	"char": 2,
-	"ease": "expo",
-	"easeDir": "InOut"
-}
-  },
-  {
-   "t": 150852.272727273,
-   "e": "ZoomCamera",
-   "v": {
-	"duration": 22,
-	"widescreenScaleX": 0,
-	"widescreenScaleY": 0,
-	"ease": "expo",
-	"zoom": 5,
-	"easeDir": "In",
-	"mode": "direct"
-}
-  },
-  {
-   "t": 152727.272727273,
-   "e": "FocusCamera",
-   "v": {
-	"x": -100,
-	"duration": 4,
-	"y": -1680,
-	"char": -1,
-	"ease": "INSTANT",
-	"easeDir": "In"
-}
->>>>>>> 4928f7d6fe9ef8fffb338485ed9a2d1aeda92ab2
->>>>>>> f4df2bc4a4156c5a39e84ab41c7372c49fef9b2a:data/songs/hope-on-the-rock/hope-on-the-rock-chart.json
   }
  ],
  "notes": {
