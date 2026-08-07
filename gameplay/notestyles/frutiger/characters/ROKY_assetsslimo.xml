@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ROKY_assetsslimo.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ROKY Cheer0000" x="0" y="0" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0001" x="731" y="0" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0002" x="1462" y="0" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0003" x="2193" y="0" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0004" x="2924" y="0" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0005" x="3655" y="0" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0006" x="4386" y="0" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0007" x="5117" y="0" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0008" x="5848" y="0" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0009" x="6579" y="0" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0010" x="7310" y="0" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0011" x="0" y="344" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0012" x="731" y="344" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0013" x="1462" y="344" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0014" x="2193" y="344" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0015" x="2924" y="344" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0016" x="3655" y="344" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0017" x="4386" y="344" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0018" x="5117" y="344" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0019" x="5848" y="344" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer0020" x="6579" y="344" width="731" height="344"/>
+	<SubTexture name="ROKY Cheer BARK0000" x="7310" y="344" width="731" height="343"/>
+	<SubTexture name="ROKY Cheer BARK0001" x="0" y="688" width="731" height="343"/>
+	<SubTexture name="ROKY Cheer BARK0002" x="731" y="688" width="731" height="343"/>
+	<SubTexture name="ROKY Cheer BARK0003" x="1462" y="688" width="731" height="343"/>
+	<SubTexture name="ROKY Cheer BARK0004" x="2193" y="688" width="731" height="343"/>
+	<SubTexture name="ROKY Cheer BARK0005" x="2924" y="688" width="731" height="343"/>
+	<SubTexture name="ROKY Cheer BARK0006" x="3655" y="688" width="731" height="343"/>
+	<SubTexture name="ROKY Cheer BARK0007" x="4386" y="688" width="731" height="343"/>
+	<SubTexture name="ROKY Dancing Beat0000" x="5117" y="688" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0001" x="5848" y="688" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0002" x="6579" y="688" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0003" x="7310" y="688" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0004" x="0" y="1033" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0005" x="731" y="1033" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0006" x="1462" y="1033" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0007" x="2193" y="1033" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0008" x="2924" y="1033" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0009" x="3655" y="1033" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0010" x="4386" y="1033" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0011" x="5117" y="1033" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0012" x="5848" y="1033" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0013" x="6579" y="1033" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0014" x="7310" y="1033" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0015" x="0" y="1378" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0016" x="731" y="1378" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0017" x="1462" y="1378" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0018" x="2193" y="1378" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0019" x="2924" y="1378" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0020" x="3655" y="1378" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0021" x="4386" y="1378" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0022" x="5117" y="1378" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0023" x="5848" y="1378" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0024" x="6579" y="1378" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0025" x="7310" y="1378" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0026" x="0" y="1723" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0027" x="731" y="1723" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0028" x="1462" y="1723" width="731" height="345"/>
+	<SubTexture name="ROKY Dancing Beat0029" x="2193" y="1723" width="731" height="345"/>
+	<SubTexture name="roky sad0000" x="2924" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0001" x="3655" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0002" x="4386" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0003" x="5117" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0004" x="5848" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0005" x="6579" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0006" x="4386" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0007" x="5117" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0008" x="5848" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0009" x="6579" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0010" x="4386" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0011" x="5117" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0012" x="7310" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0013" x="0" y="2068" width="731" height="341"/>
+	<SubTexture name="roky sad0014" x="4386" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0015" x="5117" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0016" x="5848" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0017" x="6579" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0018" x="4386" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0019" x="5117" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0020" x="5848" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0021" x="6579" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0022" x="4386" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0023" x="5117" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0024" x="5848" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0025" x="6579" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0026" x="4386" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0027" x="5117" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0028" x="5848" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0029" x="6579" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0030" x="4386" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0031" x="5117" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0032" x="5848" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0033" x="6579" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0034" x="4386" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0035" x="5117" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0036" x="5848" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0037" x="6579" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0038" x="4386" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0039" x="5117" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0040" x="5848" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0041" x="731" y="2068" width="731" height="341"/>
+	<SubTexture name="roky sad0042" x="1462" y="2068" width="731" height="341"/>
+	<SubTexture name="roky sad0043" x="2193" y="2068" width="731" height="341"/>
+	<SubTexture name="roky sad0044" x="5848" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0045" x="6579" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0046" x="4386" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0047" x="5117" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0048" x="5848" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0049" x="6579" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0050" x="4386" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0051" x="5117" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0052" x="5848" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0053" x="6579" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0054" x="4386" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0055" x="5117" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0056" x="5848" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0057" x="6579" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0058" x="4386" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0059" x="5117" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0060" x="5848" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0061" x="6579" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0062" x="4386" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0063" x="5117" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0064" x="5848" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0065" x="6579" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0066" x="4386" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0067" x="5117" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0068" x="5848" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0069" x="6579" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0070" x="4386" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0071" x="2924" y="2068" width="731" height="341"/>
+	<SubTexture name="roky sad0072" x="7310" y="1723" width="731" height="341"/>
+	<SubTexture name="roky sad0073" x="0" y="2068" width="731" height="341"/>
+	<SubTexture name="roky sad0074" x="3655" y="2068" width="731" height="341"/>
+	<SubTexture name="roky sad0075" x="4386" y="2068" width="731" height="341"/>
+	<SubTexture name="roky sad0076" x="5117" y="2068" width="731" height="341"/>
+	<SubTexture name="roky sad0077" x="5848" y="2068" width="731" height="341"/>
+	<SubTexture name="roky sad0078" x="3655" y="2068" width="731" height="341"/>
+	<SubTexture name="roky sad0079" x="4386" y="2068" width="731" height="341"/>
+</TextureAtlas>
