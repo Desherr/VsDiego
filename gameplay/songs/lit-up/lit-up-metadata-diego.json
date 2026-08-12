@@ -1,0 +1,45 @@
+{
+ "version": "2.2.8",
+ "songName": "Lit Up (Diego Mix)",
+ "artist": "DiegozZ (ft.DaOneJuda)",
+ "charter": "DiegozZ",
+ "offsets": { },
+ "playData": {
+  "difficulties": [
+   "easy",
+   "normal",
+   "hard"
+  ],
+  "characters": {
+   "player": "diego",
+   "girlfriend": "roky-weekend",
+   "opponent": "darnell",
+   "instrumental": "diego",
+   "opponentVocals": [
+    "darnell-diego"
+   ],
+   "playerVocals": [
+    "diego"
+   ]
+  },
+  "stage": "Ozzo-Weekend",
+  "noteStyle": "frutiger",
+  "ratings": {
+   "easy": 4,
+   "normal": 6,
+   "hard": 8
+  },
+  "album": "volume1diego",
+  "stickerPack": "default",
+  "previewEnd": 0
+ },
+ "generatedBy": "Friday Night Funkin' - v0.8.5",
+ "timeChanges": [
+  {
+   "t": 0,
+   "b": 0,
+   "bpm": 176,
+   "bt": [4, 4, 4, 4]
+  }
+ ]
+}
