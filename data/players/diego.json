@@ -44,22 +44,22 @@
       {
         "name": "idle",
         "prefix": "Diego DJ",
-        "offsets": [-28, 95]
+        "offsets": [-75, 95]
       },
       {
         "name": "confirm",
         "prefix": "Diego DJ confirm",
-        "offsets": [-32, 112]
+        "offsets": [-75, 112]
       },
       {
         "name": "fistPump",
         "prefix": "Boyfriend DJ fist pump",
-        "offsets": [-28, 95]
+        "offsets": [-75, 95]
       },
       {
         "name": "loss",
         "prefix": "Boyfriend DJ loss reaction 1",
-        "offsets": [-28, 95]
+        "offsets": [-75, 95]
       },
       {
         "name": "charSelect",
