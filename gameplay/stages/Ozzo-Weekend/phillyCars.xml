@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="phillyCars.png">
+<<<<<<< HEAD:images/Ozzo-Weekend/phillyCars.xml
+	<SubTexture name="car10000" x="2" y="496" width="438" height="197" />
+	<SubTexture name="car20000" x="2" y="698" width="470" height="175" />
+	<SubTexture name="car30000" x="2" y="2" width="463" height="237" />
+	<SubTexture name="car40000" x="2" y="244" width="443" height="247" />
+=======
+        <SubTexture name="car10000" x="5" y="5" width="761" height="398"/>
+        <SubTexture name="car20000" x="5" y="413" width="898" height="320"/>
+        <SubTexture name="car30000" x="776" y="5" width="969" height="33620"/>
+>>>>>>> b734be679afaba2913a3ac0ca260ba48f9f0d353:gameplay/stages/Ozzo-Weekend/phillyCars.xml
+</TextureAtlas>

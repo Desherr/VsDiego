@@ -1,0 +1,47 @@
+{
+ "version": "2.2.4",
+ "songName": "Backshot Erect",
+ "artist": "Alter_B4ra (ft.PanchoInAud)",
+ "charter": "DiegozZ",
+ "offsets": { },
+ "playData": {
+  "difficulties": [
+   "erect",
+   "nightmare"
+  ],
+  "characters": {
+   "player": "bf",
+   "girlfriend": "gf",
+   "opponent": "diego-oponent",
+   "instrumental": "erect",
+   "opponentVocals": [
+    "diego"
+   ],
+   "playerVocals": [
+    "bf"
+   ]
+  },
+<<<<<<< HEAD:data/songs/backshot/backshot-metadata-erect.json
+  "stage": "newJerkSTREETWIP",
+=======
+  "stage": "newJerkSTREET",
+>>>>>>> b734be679afaba2913a3ac0ca260ba48f9f0d353:gameplay/songs/backshot/backshot-metadata-erect.json
+  "noteStyle": "funkin",
+  "album": "volume1diegoERECT",
+  "stickerPack": "week-Dg-standard",
+  "ratings": {
+   "erect": 8,
+   "nightmare": 10
+  },
+  "previewEnd": 0
+ },
+ "generatedBy": "Friday Night Funkin' - v0.8.4",
+ "timeChanges": [
+  {
+   "t": 0,
+   "b": 0,
+   "bpm": 109,
+   "bt": [4, 4, 4, 4]
+  }
+ ]
+}
