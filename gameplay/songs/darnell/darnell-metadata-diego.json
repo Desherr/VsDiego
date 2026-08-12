@@ -23,7 +23,11 @@
    ]
   },
   "stage": "Ozzo-Weekend",
+<<<<<<< HEAD
   "noteStyle": "funkin-qt-2021",
+=======
+  "noteStyle": "frutiger",
+>>>>>>> 8dab9aaff63a207ca938cd9c046842f5f17f792e
   "ratings": {
    "hard": 11
   },
